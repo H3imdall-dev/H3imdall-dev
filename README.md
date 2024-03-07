@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...python, js. 
 - 📫 How to reach me ...drop me a message
      Also Check Out www.ddgiveaway.fun
-- ⚡ Fun fact: ...Dont eat yellow smow!!
+- ⚡ Fun fact: ...Dont eat yellow snow!!
 
 <!---
 H3imdall-dev/H3imdall-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
