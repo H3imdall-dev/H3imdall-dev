@@ -8,65 +8,72 @@ The cowz are then ranked.. some cowz are tied with others as you will see
 
 this is the points list 
 
-Smoke: Blunt - 1
-Smoke: Joint - 2
-Background: Money Green - 3
-Smoke: Cig - 4
-Background: Doge Yellow - 5
-Background: Blood Red - 6
-Background: BTC Orange - 7
-Background: Grey - 8
-Glasses: 3D - 9
-Background: Lime Green - 10
-Tee: Red - 11
-Glasses: Money Green - 12
-Chain: Silver Ruby - 13
-Glasses: BTC Orange - 14
-Mouth: Money Tongue - 15
-Background: Cherry Red - 16
-Hat: Luigi - 17
-Glasses: Doge Yellow - 18
-Hat: BTC - 19
-Hat: Red Smiley - 20
-Tee: Shirt & Tie - 21
-Glasses: Red - 22
-Glasses: Black - 23
-Mouth: Red Tongue - 24
-Hat: Mario - 25
-Chain: Silver Diamond - 26
-Chain: Gold Ruby - 27
-Background: Purpz - 28
-Chain: Silver - 29
-Chain: Gold Diamond - 30
-Background: Sky - 31
-Hat: Doge - 32
-Hide: Brown / Yellow - 33
-Nose: O - 34
-Tee: Money Green - 35
-Horns: BTC Orange - 36
-Tee: BTC Orange - 37
-Hat: Black Smiley - 38
-Horns: Doge Yellow - 39
-Hide: Doge Yellow / White - 40
-Horns: Striped - 41
-Nose: Line - 42
-Background: Pink - 43
-Nose: X - 44
-Nose: Cross - 45
-Chain: Gold - 46
-Tee: White - 47
-Hide: Grey - 48
-Horns: BTC / Doge Striped - 49
-Hide: Blue / White - 50
-Tee: Doge Yellow - 51
-Hide: Black / White - 52
-Smoke: Unlit Blunt - 53
-Horns: Horn - 54
-Nose: Bull Ring - 55
-Jacket: Tan Leather - 56
-Mouth: Smile - 57
-Mouth: Closed - 58
-Jacket: Black Leather - 59
+Eyes: Red-Eye-Jedi (Rank 1)
+Eyes: BTC Laser Eyes (Rank 2)
+Smoke: Blunt (Rank 3)
+Eyes: Doge Laser Eyes (Rank 4)
+Smoke: Joint (Rank 5)
+Eyes: Green (Rank 6)
+Eyes: Mellow-Yellow (Rank 7)
+Background: Money Green (Rank 8)
+Smoke: Cig (Rank 9)
+Eyes: Red Laser Eyes (Rank 10)
+Background: Doge Yellow (Rank 11)
+Background: Blood Red (Rank 12)
+Background: BTC Orange (Rank 13)
+Background: Grey (Rank 14)
+Eyes: 420 (Rank 15)
+Glasses: 3D (Rank 16)
+Tee: Red (Rank 17)
+Background: Lime Green (Rank 18)
+Glasses: Money Green (Rank 19)
+Chain: Silver Ruby (Rank 20)
+Glasses: BTC Orange (Rank 21)
+Mouth: Money Tongue (Rank 22)
+Background: Cherry Red (Rank 23)
+Hat: Luigi (Rank 24)
+Hat: BTC (Rank 25)
+Glasses: Doge Yellow (Rank 26)
+Hat: Red Smiley (Rank 27)
+Glasses: Red (Rank 28)
+Tee: Shirt & Tie (Rank 29)
+Glasses: Black (Rank 30)
+Mouth: Red Tongue (Rank 31)
+Hat: Mario (Rank 32)
+Chain: Silver Diamond (Rank 33)
+Chain: Gold Ruby (Rank 34)
+Background: Purpz (Rank 35)
+Chain: Silver (Rank 36)
+Chain: Gold Diamond (Rank 37)
+Background: Sky (Rank 38)
+Hat: Doge (Rank 39)
+Hide: Brown / Yellow (Rank 40)
+Nose: O (Rank 41)
+Tee: Money Green (Rank 42)
+Horns: BTC Orange (Rank 43)
+Tee: BTC Orange (Rank 44)
+Hat: Black Smiley (Rank 45)
+Horns: Doge Yellow (Rank 46)
+Hide: Doge Yellow / White (Rank 47)
+Horns: Striped (Rank 48)
+Nose: Line (Rank 49)
+Background: Pink (Rank 50)
+Nose: X (Rank 51)
+Nose: Cross (Rank 52)
+Chain: Gold (Rank 53)
+Tee: White (Rank 54)
+Hide: Grey (Rank 55)
+Horns: BTC / Doge Striped (Rank 56)
+Hide: Blue / White (Rank 57)
+Tee: Doge Yellow (Rank 58)
+Hide: Black / White (Rank 59)
+Smoke: Unlit Blunt (Rank 60)
+Horns: Horn (Rank 61)
+Nose: Bull Ring (Rank 62)
+Jacket: Tan Leather (Rank 63)
+Mouth: Smile (Rank 64)
+Mouth: Closed (Rank 65)
+Jacket: Black Leather (Rank 66)
 
 
 please find below the cowz
@@ -79,2523 +86,2523 @@ the rank is where it fares in comparison to others the lower the better
 [
     {
         "inscriptionid": "8a134ea11b96989e8f5c296a9c76c6f712a88ceb54564c749f03e5aecc0e1344i0",
-        "rarityscore": "342",
-        "rank": "117",
-        "name": "DoginalCowz #1"
+        "rarityscore": 404,
+        "name": "Doginal Cowz #1",
+        "rank": 103
     },
     {
         "inscriptionid": "18323176e290d550f8a4c89ea71d2e1e86a52240f25f20c762df0991e0ee6b19i0",
-        "rarityscore": "331",
-        "rank": "79",
-        "name": "DoginalCowz #2"
+        "rarityscore": 392,
+        "name": "Doginal Cowz #2",
+        "rank": 71
     },
     {
         "inscriptionid": "434e9df5665d9e2b9afbc790538fc7125cf1c7bf53f9ed6625176cd465e1c45ai0",
-        "rarityscore": "323",
-        "rank": "66",
-        "name": "DoginalCowz #3"
+        "rarityscore": 386,
+        "name": "Doginal Cowz #3",
+        "rank": 62
     },
     {
         "inscriptionid": "d0d203786687e75e2254410597674c9a93f07837c2ac753e58f15f6f382452dci0",
-        "rarityscore": "330",
-        "rank": "77",
-        "name": "DoginalCowz #4"
+        "rarityscore": 393,
+        "name": "Doginal Cowz #4",
+        "rank": 75
     },
     {
         "inscriptionid": "90d6005f1838101f8ea9b180e440646f8098dac1fa3bd83234d0012b74908806i0",
-        "rarityscore": "308",
-        "rank": "50",
-        "name": "DoginalCowz #5"
+        "rarityscore": 369,
+        "name": "Doginal Cowz #5",
+        "rank": 49
     },
     {
         "inscriptionid": "26acc8f927e886dde3b26b16dfab9c1643de96d10ad732900243f459beac8572i0",
-        "rarityscore": "302",
-        "rank": "46",
-        "name": "DoginalCowz #6"
+        "rarityscore": 363,
+        "name": "Doginal Cowz #6",
+        "rank": 45
     },
     {
         "inscriptionid": "77fe74bde43248ce81e03934398a013b93fce2a8605817e955ec3dec144f1a28i0",
-        "rarityscore": "351",
-        "rank": "162",
-        "name": "DoginalCowz #7"
+        "rarityscore": 414,
+        "name": "Doginal Cowz #7",
+        "rank": 146
     },
     {
         "inscriptionid": "6e0fc081b3310a0ad5495127c65f7bb2b2bc8b86dae0ba80e0f49a6f263efeb1i0",
-        "rarityscore": "349",
-        "rank": "151",
-        "name": "DoginalCowz #8"
+        "rarityscore": 412,
+        "name": "Doginal Cowz #8",
+        "rank": 140
     },
     {
         "inscriptionid": "be856b60158bfcd520bb77e91aa7370321336a5c4b99703a699d9364e9ee5bffi0",
-        "rarityscore": "348",
-        "rank": "148",
-        "name": "DoginalCowz #9"
+        "rarityscore": 410,
+        "name": "Doginal Cowz #9",
+        "rank": 132
     },
     {
         "inscriptionid": "8e410c88a1e2baddd9f089d4ad4a8ae4fd1e08588989353636681c2ca9f7e8a3i0",
-        "rarityscore": "380",
-        "rank": "269",
-        "name": "DoginalCowz #10"
+        "rarityscore": 444,
+        "name": "Doginal Cowz #10",
+        "rank": 248
     },
     {
         "inscriptionid": "987a8b9de702d0abf7732b185a97e67b124d6f921b4acfa38b25352e885b68a5i0",
-        "rarityscore": "368",
-        "rank": "223",
-        "name": "DoginalCowz #11"
+        "rarityscore": 431,
+        "name": "Doginal Cowz #11",
+        "rank": 203
     },
     {
         "inscriptionid": "7c7ce04c2d43bc3c675ac36e33b1418aae5c074da936bd12c56803740bc55810i0",
-        "rarityscore": "337",
-        "rank": "103",
-        "name": "DoginalCowz #12"
+        "rarityscore": 400,
+        "name": "Doginal Cowz #12",
+        "rank": 90
     },
     {
         "inscriptionid": "cfa0663a3916e36d649132e2867bdc3c526b31962ba7b0d4a4f0198fd71615c0i0",
-        "rarityscore": "332",
-        "rank": "82",
-        "name": "DoginalCowz #13"
+        "rarityscore": 395,
+        "name": "Doginal Cowz #13",
+        "rank": 80
     },
     {
         "inscriptionid": "34603007063d494fab819d10c9946cb0829b870b80f2699a7a845627d09f17b8i0",
-        "rarityscore": "386",
-        "rank": "284",
-        "name": "DoginalCowz #14"
+        "rarityscore": 449,
+        "name": "Doginal Cowz #14",
+        "rank": 264
     },
     {
         "inscriptionid": "30ffc494211a9239337ac5aa0b135080ecd8f80e965f0ce77eed7df6a9c39f38i0",
-        "rarityscore": "380",
-        "rank": "269",
-        "name": "DoginalCowz #15"
+        "rarityscore": 443,
+        "name": "Doginal Cowz #15",
+        "rank": 242
     },
     {
         "inscriptionid": "42cfb344baf4d200017bcc9725346c7d8f8f69e62f2c3781942c2c7bc143cc66i0",
-        "rarityscore": "237",
-        "rank": "5",
-        "name": "DoginalCowz #16"
+        "rarityscore": 293,
+        "name": "Doginal Cowz #16",
+        "rank": 4
     },
     {
         "inscriptionid": "9ffb412f51ab626e3d50a61f2cc496e0d4d5c63cdb733de4d84c410661d699bci0",
-        "rarityscore": "337",
-        "rank": "103",
-        "name": "DoginalCowz #17"
+        "rarityscore": 401,
+        "name": "Doginal Cowz #17",
+        "rank": 93
     },
     {
         "inscriptionid": "8ab8bef33646316d8fb4441f5be78f59bea9ee3f97240ccd620db46afd35f9bfi0",
-        "rarityscore": "381",
-        "rank": "273",
-        "name": "DoginalCowz #18"
+        "rarityscore": 443,
+        "name": "Doginal Cowz #18",
+        "rank": 243
     },
     {
         "inscriptionid": "7adbf7eb7a697959dd0f9fb361cba7aab1a262ddf4dcf1b9aee522117de325d7i0",
-        "rarityscore": "255",
-        "rank": "11",
-        "name": "DoginalCowz #19"
+        "rarityscore": 313,
+        "name": "Doginal Cowz #19",
+        "rank": 10
     },
     {
         "inscriptionid": "252598d63020d2622be5a36459a9568bafdb1831566d5aa5f071fa0579a4e9a2i0",
-        "rarityscore": "344",
-        "rank": "128",
-        "name": "DoginalCowz #20"
+        "rarityscore": 405,
+        "name": "Doginal Cowz #20",
+        "rank": 108
     },
     {
         "inscriptionid": "aad4b82f90b1fda05a4ed230fc5c5c39d6e3bf7f08f7ed448d13932af117f923i0",
-        "rarityscore": "363",
-        "rank": "197",
-        "name": "DoginalCowz #21"
+        "rarityscore": 426,
+        "name": "Doginal Cowz #21",
+        "rank": 184
     },
     {
         "inscriptionid": "6f56b61559b29f7de867c78ee8e66cc5948238e467bcf43394851e1de637c9b7i0",
-        "rarityscore": "390",
-        "rank": "298",
-        "name": "DoginalCowz #22"
+        "rarityscore": 453,
+        "name": "Doginal Cowz #22",
+        "rank": 275
     },
     {
         "inscriptionid": "1da5288c055462d8a4325761b0cc0f8e0e61a4a03afcd4adee81305c327cbb65i0",
-        "rarityscore": "345",
-        "rank": "133",
-        "name": "DoginalCowz #23"
+        "rarityscore": 407,
+        "name": "Doginal Cowz #23",
+        "rank": 116
     },
     {
         "inscriptionid": "63e9c408d6ab62d9eec156e128157e2f48778a83fd71bbd8d296f2bc1dce2337i0",
-        "rarityscore": "319",
-        "rank": "60",
-        "name": "DoginalCowz #24"
+        "rarityscore": 382,
+        "name": "Doginal Cowz #24",
+        "rank": 59
     },
     {
         "inscriptionid": "c6c306d00a18a31046627f92419ad8defa9e43af0427360d838fdaf97434e63fi0",
-        "rarityscore": "293",
-        "rank": "38",
-        "name": "DoginalCowz #25"
+        "rarityscore": 355,
+        "name": "Doginal Cowz #25",
+        "rank": 40
     },
     {
         "inscriptionid": "e7bf0fdbe1fe098a5b9d030c24fbc9c447503d313a22b10c429c64d7ceff1e62i0",
-        "rarityscore": "259",
-        "rank": "13",
-        "name": "DoginalCowz #26"
+        "rarityscore": 315,
+        "name": "Doginal Cowz #26",
+        "rank": 11
     },
     {
         "inscriptionid": "0870deb356b44f0913c91deb7f2d2ddf2ff1c06aae7cd05703595920d7ad402fi0",
-        "rarityscore": "258",
-        "rank": "12",
-        "name": "DoginalCowz #27"
+        "rarityscore": 316,
+        "name": "Doginal Cowz #27",
+        "rank": 13
     },
     {
         "inscriptionid": "aa165713399bc405f99b7fb6d1b3d16fcb54396636b408ca7f9f9b13d4fc5c70i0",
-        "rarityscore": "352",
-        "rank": "166",
-        "name": "DoginalCowz #28"
+        "rarityscore": 413,
+        "name": "Doginal Cowz #28",
+        "rank": 143
     },
     {
         "inscriptionid": "69bfa243c1b3f183e2cc921fd530dad783aa15b1135425bce33280416cfdfb5di0",
-        "rarityscore": "342",
-        "rank": "117",
-        "name": "DoginalCowz #29"
+        "rarityscore": 405,
+        "name": "Doginal Cowz #29",
+        "rank": 109
     },
     {
         "inscriptionid": "8196b2d68a0153017f0fee9fec8eedc3bfe32bf2df281ba553c7613997119b5ci0",
-        "rarityscore": "392",
-        "rank": "305",
-        "name": "DoginalCowz #30"
+        "rarityscore": 455,
+        "name": "Doginal Cowz #30",
+        "rank": 283
     },
     {
         "inscriptionid": "21839df8bb979500cceb959b57ef0365d2c8a8f540d166f9612c28dc215dc8fei0",
-        "rarityscore": "347",
-        "rank": "143",
-        "name": "DoginalCowz #31"
+        "rarityscore": 411,
+        "name": "Doginal Cowz #31",
+        "rank": 137
     },
     {
         "inscriptionid": "c17cad2d6f38183af62502d99b4b21979a57d448881988e276bfd68a41e99977i0",
-        "rarityscore": "370",
-        "rank": "231",
-        "name": "DoginalCowz #32"
+        "rarityscore": 433,
+        "name": "Doginal Cowz #32",
+        "rank": 212
     },
     {
         "inscriptionid": "d9fa6a9b677b0fa47df7df2fa054e283c7a48d633b8c976b910734625589487bi0",
-        "rarityscore": "370",
-        "rank": "231",
-        "name": "DoginalCowz #33"
+        "rarityscore": 432,
+        "name": "Doginal Cowz #33",
+        "rank": 206
     },
     {
         "inscriptionid": "1484dd485a08184b47f69124ebb5663caed51a30f3147c990bed9b4df91d7700i0",
-        "rarityscore": "342",
-        "rank": "117",
-        "name": "DoginalCowz #34"
+        "rarityscore": 405,
+        "name": "Doginal Cowz #34",
+        "rank": 110
     },
     {
         "inscriptionid": "5473c413a08aa1ce4a68e148a683e54b254d98bd1772edb8f2f6dac02a11b400i0",
-        "rarityscore": "356",
-        "rank": "177",
-        "name": "DoginalCowz #35"
+        "rarityscore": 419,
+        "name": "Doginal Cowz #35",
+        "rank": 167
     },
     {
         "inscriptionid": "97b6951f060b2308ef8de54dfc096bc4067de5ecd11f7cdddd998b18ba12e14ei0",
-        "rarityscore": "332",
-        "rank": "82",
-        "name": "DoginalCowz #36"
+        "rarityscore": 388,
+        "name": "Doginal Cowz #36",
+        "rank": 64
     },
     {
         "inscriptionid": "dd2b9dfe2c66997c9488eb124c589b558eca34228baee5c41db584084f601a8ai0",
-        "rarityscore": "289",
-        "rank": "34",
-        "name": "DoginalCowz #37"
+        "rarityscore": 352,
+        "name": "Doginal Cowz #37",
+        "rank": 34
     },
     {
         "inscriptionid": "fa43549856f1730b69c82d8ce66465ede2362fd1a0a9b0d1004b54764a71e60ai0",
-        "rarityscore": "355",
-        "rank": "172",
-        "name": "DoginalCowz #38"
+        "rarityscore": 416,
+        "name": "Doginal Cowz #38",
+        "rank": 159
     },
     {
         "inscriptionid": "6c174ee4854ddf48caf917d59792bc06d34a201ca80ba1b7dc2360fa99a3d7b0i0",
-        "rarityscore": "225",
-        "rank": "3",
-        "name": "DoginalCowz #39"
+        "rarityscore": 283,
+        "name": "Doginal Cowz #39",
+        "rank": 3
     },
     {
         "inscriptionid": "e4d6d8d7ee72cefc2e17de17c096f48285953c145402acb24adbc47e5214a6a4i0",
-        "rarityscore": "249",
-        "rank": "8",
-        "name": "DoginalCowz #40"
+        "rarityscore": 305,
+        "name": "Doginal Cowz #40",
+        "rank": 8
     },
     {
         "inscriptionid": "b8fee8246aee4c1a510c0f400cc01aab17b6896aff83da19837b712ac3097ff5i0",
-        "rarityscore": "339",
-        "rank": "107",
-        "name": "DoginalCowz #41"
+        "rarityscore": 402,
+        "name": "Doginal Cowz #41",
+        "rank": 95
     },
     {
         "inscriptionid": "a22198aa49dad8d1b753c43982d296eb4c462e0f4ab5b8e6027cd581da4022c2i0",
-        "rarityscore": "386",
-        "rank": "284",
-        "name": "DoginalCowz #42"
+        "rarityscore": 449,
+        "name": "Doginal Cowz #42",
+        "rank": 265
     },
     {
         "inscriptionid": "3e9704cfbcadef9333474f6cf1684ed5f12533b29892fa732de3b4cfb4c4c8dai0",
-        "rarityscore": "356",
-        "rank": "177",
-        "name": "DoginalCowz #43"
+        "rarityscore": 417,
+        "name": "Doginal Cowz #43",
+        "rank": 161
     },
     {
         "inscriptionid": "af7e3ecb7c3124deb241728b2b14106d8e20043e1f79495a2d3501507a1ed6b6i0",
-        "rarityscore": "355",
-        "rank": "172",
-        "name": "DoginalCowz #44"
+        "rarityscore": 416,
+        "name": "Doginal Cowz #44",
+        "rank": 160
     },
     {
         "inscriptionid": "fa73e3259a2840e9e1932b48ef50bc540d1d29744b72bce270cf08d99c845dd1i0",
-        "rarityscore": "287",
-        "rank": "31",
-        "name": "DoginalCowz #45"
+        "rarityscore": 349,
+        "name": "Doginal Cowz #45",
+        "rank": 30
     },
     {
         "inscriptionid": "c72db4503f2548b66f4ee5f9ff61be0c6a7c31eb6f1d9b17abba22d78dd68cd3i0",
-        "rarityscore": "207",
-        "rank": "2",
-        "name": "DoginalCowz #46"
+        "rarityscore": 261,
+        "name": "Doginal Cowz #46",
+        "rank": 2
     },
     {
         "inscriptionid": "b737ed55d37217153b802543e987e6e47fbde910370e54ef856255f0176457a5i0",
-        "rarityscore": "339",
-        "rank": "107",
-        "name": "DoginalCowz #47"
+        "rarityscore": 402,
+        "name": "Doginal Cowz #47",
+        "rank": 96
     },
     {
         "inscriptionid": "4bfb5d6c3a5d0a4d50c9f4c1a7f37a5e72209d5a3024e252e03495adc3a54e0di0",
-        "rarityscore": "391",
-        "rank": "302",
-        "name": "DoginalCowz #48"
+        "rarityscore": 455,
+        "name": "Doginal Cowz #48",
+        "rank": 284
     },
     {
         "inscriptionid": "b5c3fb2c8df9c667b480d12c733ab3fcfe2be4e38c2d546acd1bff363ff22456i0",
-        "rarityscore": "340",
-        "rank": "114",
-        "name": "DoginalCowz #49"
+        "rarityscore": 403,
+        "name": "Doginal Cowz #49",
+        "rank": 100
     },
     {
         "inscriptionid": "047c96b5309b8fb3962508cfd8bd588fcbf57102349dd751a7c91d1a8fb79023i0",
-        "rarityscore": "349",
-        "rank": "151",
-        "name": "DoginalCowz #50"
+        "rarityscore": 411,
+        "name": "Doginal Cowz #50",
+        "rank": 138
     },
     {
         "inscriptionid": "c09bce3b942cebe1a9b5e8da9b6607ee144d93d9cb52eb55a0d96ac48ef0316ai0",
-        "rarityscore": "347",
-        "rank": "143",
-        "name": "DoginalCowz #51"
+        "rarityscore": 409,
+        "name": "Doginal Cowz #51",
+        "rank": 127
     },
     {
         "inscriptionid": "a51e1b193b01b3bc96c9ff8ee04ae4d934b1fa28fc5ebd353ae0a078cbf89a14i0",
-        "rarityscore": "303",
-        "rank": "47",
-        "name": "DoginalCowz #52"
+        "rarityscore": 365,
+        "name": "Doginal Cowz #52",
+        "rank": 46
     },
     {
         "inscriptionid": "765504b2b8bff7a817fc0ed0299a738d7b4a8f5421315055849b7eb43b9fdc7ai0",
-        "rarityscore": "337",
-        "rank": "103",
-        "name": "DoginalCowz #53"
+        "rarityscore": 400,
+        "name": "Doginal Cowz #53",
+        "rank": 91
     },
     {
         "inscriptionid": "4c3074f4f84e7a0a17c55b4ed9edeaf4ee280c1c1a862123a55a061004d9a478i0",
-        "rarityscore": "343",
-        "rank": "123",
-        "name": "DoginalCowz #54"
+        "rarityscore": 407,
+        "name": "Doginal Cowz #54",
+        "rank": 117
     },
     {
         "inscriptionid": "03434be8510a70985e68f2f607989507c4707469eaa4116b4065b0231b63cd3ei0",
-        "rarityscore": "366",
-        "rank": "212",
-        "name": "DoginalCowz #55"
+        "rarityscore": 429,
+        "name": "Doginal Cowz #55",
+        "rank": 193
     },
     {
         "inscriptionid": "b4b1d4822f4178063929ef14b999be7055c62394500a25bcdd563d52e68f56f2i0",
-        "rarityscore": "313",
-        "rank": "55",
-        "name": "DoginalCowz #56"
+        "rarityscore": 377,
+        "name": "Doginal Cowz #56",
+        "rank": 54
     },
     {
         "inscriptionid": "b5c31a31bfa4818947b87ec2f48bc8450b0b8a3c0de9884792c8d15beb1bf4d7i0",
-        "rarityscore": "372",
-        "rank": "236",
-        "name": "DoginalCowz #57"
+        "rarityscore": 437,
+        "name": "Doginal Cowz #57",
+        "rank": 224
     },
     {
         "inscriptionid": "246aa28387820e8d818c794069e06ff2f1446ba92e7f03f35852767f6ca0ea61i0",
-        "rarityscore": "372",
-        "rank": "236",
-        "name": "DoginalCowz #58"
+        "rarityscore": 434,
+        "name": "Doginal Cowz #58",
+        "rank": 215
     },
     {
         "inscriptionid": "41649d08383a11da229a06fda5c172703e92b188411fbc9027ee3f78ebb22c4di0",
-        "rarityscore": "335",
-        "rank": "92",
-        "name": "DoginalCowz #59"
+        "rarityscore": 396,
+        "name": "Doginal Cowz #59",
+        "rank": 81
     },
     {
         "inscriptionid": "1f75173f6219cb6ff1b050687c9dc7330dcafa35537cf4f0afbc98418159574di0",
-        "rarityscore": "342",
-        "rank": "117",
-        "name": "DoginalCowz #60"
+        "rarityscore": 404,
+        "name": "Doginal Cowz #60",
+        "rank": 104
     },
     {
         "inscriptionid": "1e8a598d9dac816971cdb5307dc8f3e7c5a391451ad38077517ac4b4d0fdeef1i0",
-        "rarityscore": "375",
-        "rank": "251",
-        "name": "DoginalCowz #61"
+        "rarityscore": 438,
+        "name": "Doginal Cowz #61",
+        "rank": 230
     },
     {
         "inscriptionid": "5b37b4de0de86ac819903e2433737d8d0e95e64f837e9bf267cb00101e6fa1dei0",
-        "rarityscore": "299",
-        "rank": "45",
-        "name": "DoginalCowz #62"
+        "rarityscore": 356,
+        "name": "Doginal Cowz #62",
+        "rank": 41
     },
     {
         "inscriptionid": "15e1d53dec5c15824bc4c44df13358283ab459ce15ae2c91da04b51ae0efafe5i0",
-        "rarityscore": "353",
-        "rank": "168",
-        "name": "DoginalCowz #63"
+        "rarityscore": 415,
+        "name": "Doginal Cowz #63",
+        "rank": 153
     },
     {
         "inscriptionid": "584115d1c661f3bd219dcdb0be2623c49c08e27ebba3752b08be6d7534ce4992i0",
-        "rarityscore": "237",
-        "rank": "5",
-        "name": "DoginalCowz #64"
+        "rarityscore": 294,
+        "name": "Doginal Cowz #64",
+        "rank": 5
     },
     {
         "inscriptionid": "966b99835e81beb89b187a2529dc0171579148df8955e4571a9c480324046b8ei0",
-        "rarityscore": "329",
-        "rank": "76",
-        "name": "DoginalCowz #65"
+        "rarityscore": 391,
+        "name": "Doginal Cowz #65",
+        "rank": 68
     },
     {
         "inscriptionid": "822d7e11b55eb847278312c5e4486c1616bdfc3cda3a93e0fdb8393bdaf26269i0",
-        "rarityscore": "404",
-        "rank": "325",
-        "name": "DoginalCowz #66"
+        "rarityscore": 467,
+        "name": "Doginal Cowz #66",
+        "rank": 310
     },
     {
         "inscriptionid": "825cbc89f812d022a94a987dbf4abf4853f3cb6acc7507f6a4182252095d3f5di0",
-        "rarityscore": "346",
-        "rank": "137",
-        "name": "DoginalCowz #67"
+        "rarityscore": 407,
+        "name": "Doginal Cowz #67",
+        "rank": 118
     },
     {
         "inscriptionid": "80f6603a64c32ffb262bd3910d176449561feab28c7dd2183efea490ba758741i0",
-        "rarityscore": "378",
-        "rank": "261",
-        "name": "DoginalCowz #68"
+        "rarityscore": 440,
+        "name": "Doginal Cowz #68",
+        "rank": 236
     },
     {
         "inscriptionid": "7d8c976400506ad411543f18e76da2a2c349cf1a6cc2d6a7520215fe91f09617i0",
-        "rarityscore": "326",
-        "rank": "69",
-        "name": "DoginalCowz #69"
+        "rarityscore": 390,
+        "name": "Doginal Cowz #69",
+        "rank": 66
     },
     {
         "inscriptionid": "10fb853a241e6acbe06463f1427ed292f98ebda2a7bf06b1695d92636d51a802i0",
-        "rarityscore": "270",
-        "rank": "21",
-        "name": "DoginalCowz #70"
+        "rarityscore": 327,
+        "name": "Doginal Cowz #70",
+        "rank": 20
     },
     {
         "inscriptionid": "1ca2d9e8d59e8341c55195b09d07d36620c73a6cc8dd9171f208fcbfb44a7233i0",
-        "rarityscore": "368",
-        "rank": "223",
-        "name": "DoginalCowz #71"
+        "rarityscore": 432,
+        "name": "Doginal Cowz #71",
+        "rank": 207
     },
     {
         "inscriptionid": "c1fcc2ca37b1a3f12b5df149e922eb1129a591ea5cd19d937d14ebfb019d6262i0",
-        "rarityscore": "366",
-        "rank": "212",
-        "name": "DoginalCowz #72"
+        "rarityscore": 429,
+        "name": "Doginal Cowz #72",
+        "rank": 194
     },
     {
         "inscriptionid": "21678176be28d110725ca79e972e77fe617fe2788dda4467d951595e969747f3i0",
-        "rarityscore": "318",
-        "rank": "59",
-        "name": "DoginalCowz #73"
+        "rarityscore": 381,
+        "name": "Doginal Cowz #73",
+        "rank": 58
     },
     {
         "inscriptionid": "71af79571bcf3a1dc6986d6f27a99bb5a80d1407bbb527c4b8cd924f406b49a8i0",
-        "rarityscore": "263",
-        "rank": "16",
-        "name": "DoginalCowz #74"
+        "rarityscore": 320,
+        "name": "Doginal Cowz #74",
+        "rank": 15
     },
     {
         "inscriptionid": "30f6a1f44e896ab885bae890086759bcf29c6e8250f47f86bd3d9529f3bcd09ci0",
-        "rarityscore": "323",
-        "rank": "66",
-        "name": "DoginalCowz #75"
+        "rarityscore": 386,
+        "name": "Doginal Cowz #75",
+        "rank": 63
     },
     {
         "inscriptionid": "9ccebd06dcf24a80de786e46d69455380ef096344f1d6841cfdda78145e17077i0",
-        "rarityscore": "265",
-        "rank": "18",
-        "name": "DoginalCowz #76"
+        "rarityscore": 322,
+        "name": "Doginal Cowz #76",
+        "rank": 18
     },
     {
         "inscriptionid": "2d7f3a6468b5d429e232881ab7f1230eeb64e687f7e85949a2d3b3baaf6ec4c0i0",
-        "rarityscore": "391",
-        "rank": "302",
-        "name": "DoginalCowz #77"
+        "rarityscore": 455,
+        "name": "Doginal Cowz #77",
+        "rank": 285
     },
     {
         "inscriptionid": "dfd801a499ef709d9ad8c6b49f95b37b2c81d08c52fc0ce215d850c7dbc357b4i0",
-        "rarityscore": "359",
-        "rank": "188",
-        "name": "DoginalCowz #78"
+        "rarityscore": 423,
+        "name": "Doginal Cowz #78",
+        "rank": 175
     },
     {
         "inscriptionid": "85028d9cc659d2c042975c850d4be155cea9c82131d74c144635bba1af8ce48bi0",
-        "rarityscore": "377",
-        "rank": "256",
-        "name": "DoginalCowz #79"
+        "rarityscore": 441,
+        "name": "Doginal Cowz #79",
+        "rank": 239
     },
     {
         "inscriptionid": "16d0cab2278a87d44e5b845be3171f45523e714dfb8685ed7115dd46d815da1di0",
-        "rarityscore": "382",
-        "rank": "275",
-        "name": "DoginalCowz #80"
+        "rarityscore": 445,
+        "name": "Doginal Cowz #80",
+        "rank": 252
     },
     {
         "inscriptionid": "f81d17e3bff37e2ecaeac967fee83dcebee1910f7b9bf56155b82b5897b2dff7i0",
-        "rarityscore": "397",
-        "rank": "315",
-        "name": "DoginalCowz #81"
+        "rarityscore": 461,
+        "name": "Doginal Cowz #81",
+        "rank": 300
     },
     {
         "inscriptionid": "06ad9319725fe4b6f7b931f2f762c0378829461abdcecef0838ae36330879fbci0",
-        "rarityscore": "355",
-        "rank": "172",
-        "name": "DoginalCowz #82"
+        "rarityscore": 419,
+        "name": "Doginal Cowz #82",
+        "rank": 168
     },
     {
         "inscriptionid": "92f93f82e96ec971fc1d979fa6ef995f55290710b451b944b016a1bef1d7f638i0",
-        "rarityscore": "357",
-        "rank": "180",
-        "name": "DoginalCowz #83"
+        "rarityscore": 420,
+        "name": "Doginal Cowz #83",
+        "rank": 170
     },
     {
         "inscriptionid": "1f8e54cce3d81f2901453a1b672cb47baed1c3012d20de416ea25f362861876ei0",
-        "rarityscore": "264",
-        "rank": "17",
-        "name": "DoginalCowz #84"
+        "rarityscore": 319,
+        "name": "Doginal Cowz #84",
+        "rank": 14
     },
     {
         "inscriptionid": "62c7516297d9be601fe3927e91e25e141567d84b30ec7a7a7f7b59e5c24c203fi0",
-        "rarityscore": "196",
-        "rank": "1",
-        "name": "DoginalCowz #85"
+        "rarityscore": 252,
+        "name": "Doginal Cowz #85",
+        "rank": 1
     },
     {
         "inscriptionid": "e12965d69625c18586381900dd749cd5939f6eaa91340a0a252b22c7305dbd46i0",
-        "rarityscore": "372",
-        "rank": "236",
-        "name": "DoginalCowz #86"
+        "rarityscore": 435,
+        "name": "Doginal Cowz #86",
+        "rank": 217
     },
     {
         "inscriptionid": "536e8df87a5cd417d891231552110de5f43074271e5163fc797056616485370di0",
-        "rarityscore": "386",
-        "rank": "284",
-        "name": "DoginalCowz #87"
+        "rarityscore": 449,
+        "name": "Doginal Cowz #87",
+        "rank": 266
     },
     {
         "inscriptionid": "f9749780e5b1eca530c2b262c2f31d32b9048d4a9d409ebdcb8d211e74bf02b0i0",
-        "rarityscore": "349",
-        "rank": "151",
-        "name": "DoginalCowz #88"
+        "rarityscore": 410,
+        "name": "Doginal Cowz #88",
+        "rank": 133
     },
     {
         "inscriptionid": "bfaf80d2a20cdfd781bc43f2ebd3bab4787e9329e3e4c04ba72f91cf8d34f1f6i0",
-        "rarityscore": "343",
-        "rank": "123",
-        "name": "DoginalCowz #89"
+        "rarityscore": 407,
+        "name": "Doginal Cowz #89",
+        "rank": 119
     },
     {
         "inscriptionid": "6195ab92e5c1f05a505b59ae6325f97c34af629f047573502a2ad102557dcdf9i0",
-        "rarityscore": "285",
-        "rank": "29",
-        "name": "DoginalCowz #90"
+        "rarityscore": 347,
+        "name": "Doginal Cowz #90",
+        "rank": 27
     },
     {
         "inscriptionid": "7dd950cf0161879960dbf7c171dab6b94215157a991706a8d32b26a3dca2ea2bi0",
-        "rarityscore": "333",
-        "rank": "88",
-        "name": "DoginalCowz #91"
+        "rarityscore": 398,
+        "name": "Doginal Cowz #91",
+        "rank": 87
     },
     {
         "inscriptionid": "7854dfe29e826403c034502db141dff4b96704ed2248b017f3e0bdee1f942b49i0",
-        "rarityscore": "369",
-        "rank": "226",
-        "name": "DoginalCowz #92"
+        "rarityscore": 432,
+        "name": "Doginal Cowz #92",
+        "rank": 208
     },
     {
         "inscriptionid": "d22eaf43ebd829dce0ba37d5f4dbeb6e621752ee1493fa6a74f4e0818e1b454di0",
-        "rarityscore": "268",
-        "rank": "20",
-        "name": "DoginalCowz #93"
+        "rarityscore": 323,
+        "name": "Doginal Cowz #93",
+        "rank": 19
     },
     {
         "inscriptionid": "58df8be8f97ebb1943af6bb1ae2bb9773feaef0ed6824d11421b8229b5b10a18i0",
-        "rarityscore": "366",
-        "rank": "212",
-        "name": "DoginalCowz #94"
+        "rarityscore": 429,
+        "name": "Doginal Cowz #94",
+        "rank": 195
     },
     {
         "inscriptionid": "1edbc710e13eee42ce8c74f270611bab9c610ea3687612f593a43d56c2e845ddi0",
-        "rarityscore": "346",
-        "rank": "137",
-        "name": "DoginalCowz #95"
+        "rarityscore": 409,
+        "name": "Doginal Cowz #95",
+        "rank": 128
     },
     {
         "inscriptionid": "5ced26d9cb9f97064e243a7ac951278657f48993e5d3354459a2600806bcedc5i0",
-        "rarityscore": "261",
-        "rank": "14",
-        "name": "DoginalCowz #96"
+        "rarityscore": 321,
+        "name": "Doginal Cowz #96",
+        "rank": 17
     },
     {
         "inscriptionid": "d4e5c2c89c42ec39230b223991f2955cb6952fb07bea8d2ad977770a13815c72i0",
-        "rarityscore": "306",
-        "rank": "49",
-        "name": "DoginalCowz #97"
+        "rarityscore": 367,
+        "name": "Doginal Cowz #97",
+        "rank": 48
     },
     {
         "inscriptionid": "67665642194b864d6ef70ef4934918a598c5c7f1143635293e94d87eb5be09fci0",
-        "rarityscore": "331",
-        "rank": "79",
-        "name": "DoginalCowz #98"
+        "rarityscore": 394,
+        "name": "Doginal Cowz #98",
+        "rank": 77
     },
     {
         "inscriptionid": "45eb8ca570c7162a43c246c3a161eec28533ef7982967c7f2fd81bcaefc618fai0",
-        "rarityscore": "335",
-        "rank": "92",
-        "name": "DoginalCowz #99"
+        "rarityscore": 397,
+        "name": "Doginal Cowz #99",
+        "rank": 84
     },
     {
         "inscriptionid": "5784e08e6c36efdc0ed2ce2d98b11ec984eaf113262782b08ab071d2539bb25fi0",
-        "rarityscore": "328",
-        "rank": "74",
-        "name": "DoginalCowz #100"
+        "rarityscore": 390,
+        "name": "Doginal Cowz #100",
+        "rank": 67
     },
     {
         "inscriptionid": "2dcbe8ac3c9107b8f1794c5808748b148bca48506213192d437633ef75339a21i0",
-        "rarityscore": "311",
-        "rank": "53",
-        "name": "DoginalCowz #101"
+        "rarityscore": 373,
+        "name": "Doginal Cowz #101",
+        "rank": 52
     },
     {
         "inscriptionid": "f435604df6677e2262181e286bfbda2d1d6bc85233d2c630aae18caed1e5c9c3i0",
-        "rarityscore": "330",
-        "rank": "77",
-        "name": "DoginalCowz #102"
+        "rarityscore": 391,
+        "name": "Doginal Cowz #102",
+        "rank": 69
     },
     {
         "inscriptionid": "e61dc153a44e322699f8b5915784fd805141b83dc0899bde0fec81a0a6129c80i0",
-        "rarityscore": "339",
-        "rank": "107",
-        "name": "DoginalCowz #103"
+        "rarityscore": 402,
+        "name": "Doginal Cowz #103",
+        "rank": 97
     },
     {
         "inscriptionid": "dd580ee53059be827ed68de1fdfeda10d429c8b310981e484ddfef63485abe79i0",
-        "rarityscore": "388",
-        "rank": "292",
-        "name": "DoginalCowz #104"
+        "rarityscore": 451,
+        "name": "Doginal Cowz #104",
+        "rank": 271
     },
     {
         "inscriptionid": "d4fb5d198777a816bafc9e346ed7b16dd0bcddf4bb3916c9e1b3d0d60b56eebdi0",
-        "rarityscore": "253",
-        "rank": "10",
-        "name": "DoginalCowz #105"
+        "rarityscore": 310,
+        "name": "Doginal Cowz #105",
+        "rank": 9
     },
     {
         "inscriptionid": "2f09e3326985baf0cb20ccf2970214f47e2e1078cb9ae7ac0503d716067214f5i0",
-        "rarityscore": "328",
-        "rank": "74",
-        "name": "DoginalCowz #106"
+        "rarityscore": 392,
+        "name": "Doginal Cowz #106",
+        "rank": 72
     },
     {
         "inscriptionid": "2028c633c453777d0a8c063b6d22b34d71278fc4de8ea09f18290ac006667c8ei0",
-        "rarityscore": "288",
-        "rank": "32",
-        "name": "DoginalCowz #107"
+        "rarityscore": 352,
+        "name": "Doginal Cowz #107",
+        "rank": 35
     },
     {
         "inscriptionid": "031cf5e49c8a2dde609965f48b8b45fb2c7bfbb6854e6ca44caa64d54919ed56i0",
-        "rarityscore": "365",
-        "rank": "207",
-        "name": "DoginalCowz #108"
+        "rarityscore": 427,
+        "name": "Doginal Cowz #108",
+        "rank": 185
     },
     {
         "inscriptionid": "45a4244a4b545b928ab6f7ad54c0e33389a5ea5427fbdff392c68f53133fbd8ci0",
-        "rarityscore": "357",
-        "rank": "180",
-        "name": "DoginalCowz #109"
+        "rarityscore": 420,
+        "name": "Doginal Cowz #109",
+        "rank": 171
     },
     {
         "inscriptionid": "77ded211a1e02d9057b7788a84458ae704ad94ebf5253cbe31a645a17712d5e0i0",
-        "rarityscore": "351",
-        "rank": "162",
-        "name": "DoginalCowz #110"
+        "rarityscore": 414,
+        "name": "Doginal Cowz #110",
+        "rank": 147
     },
     {
         "inscriptionid": "4dfc6ef61fb8eb6064d712cbba5e10caae671964dbf17761cad491d46afb7152i0",
-        "rarityscore": "373",
-        "rank": "242",
-        "name": "DoginalCowz #111"
+        "rarityscore": 437,
+        "name": "Doginal Cowz #111",
+        "rank": 225
     },
     {
         "inscriptionid": "10d09d4df369fa223f2b74e3721327c70f78f8c2fbc882769f3d1a03f2412e19i0",
-        "rarityscore": "366",
-        "rank": "212",
-        "name": "DoginalCowz #112"
+        "rarityscore": 428,
+        "name": "Doginal Cowz #112",
+        "rank": 189
     },
     {
         "inscriptionid": "c811b1152e7b2bec1aed1035a777beaebe6a839213cf924ab6190a1538b7ebb2i0",
-        "rarityscore": "342",
-        "rank": "117",
-        "name": "DoginalCowz #113"
+        "rarityscore": 403,
+        "name": "Doginal Cowz #113",
+        "rank": 101
     },
     {
         "inscriptionid": "ad5ac88ee71b7ba3ab01cd3095ec3db7fbca9c11b5975ae183a9a987aab6a5b4i0",
-        "rarityscore": "336",
-        "rank": "98",
-        "name": "DoginalCowz #114"
+        "rarityscore": 399,
+        "name": "Doginal Cowz #114",
+        "rank": 89
     },
     {
         "inscriptionid": "6170b4404b0d6bf7725133e30d74ac3e10ba10f7f2dd2967b9d39b5dc38ba3efi0",
-        "rarityscore": "292",
-        "rank": "37",
-        "name": "DoginalCowz #115"
+        "rarityscore": 348,
+        "name": "Doginal Cowz #115",
+        "rank": 28
     },
     {
         "inscriptionid": "553ff7e103e693837c35f2f528013e964848da9bfe6c694baff4c5ee1d6ac453i0",
-        "rarityscore": "365",
-        "rank": "207",
-        "name": "DoginalCowz #116"
+        "rarityscore": 428,
+        "name": "Doginal Cowz #116",
+        "rank": 190
     },
     {
         "inscriptionid": "dcd4d9a2b19d6746585a147f61e6e0c9d8531d1313685846947af4a55821d171i0",
-        "rarityscore": "349",
-        "rank": "151",
-        "name": "DoginalCowz #117"
+        "rarityscore": 412,
+        "name": "Doginal Cowz #117",
+        "rank": 141
     },
     {
         "inscriptionid": "3d25dd64760504558ad10a7b86faf30db811730f75e05010d633f25b6348aa7bi0",
-        "rarityscore": "351",
-        "rank": "162",
-        "name": "DoginalCowz #118"
+        "rarityscore": 415,
+        "name": "Doginal Cowz #118",
+        "rank": 154
     },
     {
         "inscriptionid": "5529fe38bd6e28aa4a431d69d1c56b672600887775b2a5c3711571fd1e35d2dci0",
-        "rarityscore": "347",
-        "rank": "143",
-        "name": "DoginalCowz #119"
+        "rarityscore": 409,
+        "name": "Doginal Cowz #119",
+        "rank": 129
     },
     {
         "inscriptionid": "d4f51cb980440e0c33785d12b6054d2c749a3463146c03a2aeff1529fd754215i0",
-        "rarityscore": "367",
-        "rank": "221",
-        "name": "DoginalCowz #120"
+        "rarityscore": 429,
+        "name": "Doginal Cowz #120",
+        "rank": 196
     },
     {
         "inscriptionid": "9ceef16005c030db5af048bbd55702c4f296316c9d2524a45fb2b9dc31979755i0",
-        "rarityscore": "312",
-        "rank": "54",
-        "name": "DoginalCowz #121"
+        "rarityscore": 374,
+        "name": "Doginal Cowz #121",
+        "rank": 53
     },
     {
         "inscriptionid": "b72cf0330a42a9d4c647d4f9b41e5f241c0d80ddf90f4d4ca3a5372163d0633ei0",
-        "rarityscore": "351",
-        "rank": "162",
-        "name": "DoginalCowz #122"
+        "rarityscore": 415,
+        "name": "Doginal Cowz #122",
+        "rank": 155
     },
     {
         "inscriptionid": "b7572d5cf9dc056f631f05e5840988d56ceaba43c0b568a6baaae8fb46d1806bi0",
-        "rarityscore": "382",
-        "rank": "275",
-        "name": "DoginalCowz #123"
+        "rarityscore": 445,
+        "name": "Doginal Cowz #123",
+        "rank": 253
     },
     {
         "inscriptionid": "1ff8398283f44c306fd3cc39a6358a98e951b6128cc882f559f5fdfbf407ef78i0",
-        "rarityscore": "363",
-        "rank": "197",
-        "name": "DoginalCowz #124"
+        "rarityscore": 425,
+        "name": "Doginal Cowz #124",
+        "rank": 180
     },
     {
         "inscriptionid": "e4aec7d1a63fc8b1caeb8bc82eb3b718f3e146f32526a077bcc84323b8724c77i0",
-        "rarityscore": "261",
-        "rank": "14",
-        "name": "DoginalCowz #125"
+        "rarityscore": 320,
+        "name": "Doginal Cowz #125",
+        "rank": 16
     },
     {
         "inscriptionid": "6ea0840ad4a7f983706d537bb84747bd874177f27b6283d48c4500893845594ai0",
-        "rarityscore": "346",
-        "rank": "137",
-        "name": "DoginalCowz #126"
+        "rarityscore": 409,
+        "name": "Doginal Cowz #126",
+        "rank": 130
     },
     {
         "inscriptionid": "1b673ef26bd3eba9e866ab4aa6b3e23ee59258b1f82e3dedda59c805d357b604i0",
-        "rarityscore": "343",
-        "rank": "123",
-        "name": "DoginalCowz #127"
+        "rarityscore": 407,
+        "name": "Doginal Cowz #127",
+        "rank": 120
     },
     {
         "inscriptionid": "4f9094b3e0ae27e657a6ee2954a2b66fdd65a7b2e233b62a059858897d133afai0",
-        "rarityscore": "238",
-        "rank": "7",
-        "name": "DoginalCowz #128"
+        "rarityscore": 295,
+        "name": "Doginal Cowz #128",
+        "rank": 6
     },
     {
         "inscriptionid": "aed2332bf8c975ff166e882cc48ccd045ee0b7acb27f90bd454ffef8d3e93978i0",
-        "rarityscore": "376",
-        "rank": "254",
-        "name": "DoginalCowz #129"
+        "rarityscore": 439,
+        "name": "Doginal Cowz #129",
+        "rank": 234
     },
     {
         "inscriptionid": "1a57eb9d3dda36036ae3d9d2e5cb6722587211cf9db4ed5fc78e3a83680294f9i0",
-        "rarityscore": "390",
-        "rank": "298",
-        "name": "DoginalCowz #130"
+        "rarityscore": 453,
+        "name": "Doginal Cowz #130",
+        "rank": 276
     },
     {
         "inscriptionid": "9dc69a690a2b9d4c3c75a7d590a918b0894c2d5ec9364d31ea327c7a5f50c1b8i0",
-        "rarityscore": "346",
-        "rank": "137",
-        "name": "DoginalCowz #131"
+        "rarityscore": 409,
+        "name": "Doginal Cowz #131",
+        "rank": 131
     },
     {
         "inscriptionid": "e04a8d072dce9a25a11116e4704745aa90f841c44f9485f1900fff5d648b0b31i0",
-        "rarityscore": "346",
-        "rank": "137",
-        "name": "DoginalCowz #132"
+        "rarityscore": 407,
+        "name": "Doginal Cowz #132",
+        "rank": 121
     },
     {
         "inscriptionid": "260fdc15d224ac03f0f2a12dc04aa5c2fc661c717856bffa903e1e604c023f7ai0",
-        "rarityscore": "365",
-        "rank": "207",
-        "name": "DoginalCowz #133"
+        "rarityscore": 427,
+        "name": "Doginal Cowz #133",
+        "rank": 186
     },
     {
         "inscriptionid": "be0ed0cee13bd82d77374097cc24715af1c75f89fcb9011d3b59e5d81e236b40i0",
-        "rarityscore": "310",
-        "rank": "51",
-        "name": "DoginalCowz #134"
+        "rarityscore": 372,
+        "name": "Doginal Cowz #134",
+        "rank": 51
     },
     {
         "inscriptionid": "42241c24736145ff2b8cf6f7c4cd42d6e7e49a23df83555055ec1413e306539ci0",
-        "rarityscore": "343",
-        "rank": "123",
-        "name": "DoginalCowz #135"
+        "rarityscore": 406,
+        "name": "Doginal Cowz #135",
+        "rank": 113
     },
     {
         "inscriptionid": "22be0e72720c4b5ea89901bb1f92f82cce3958fec417d6bde793c424e76ceb8bi0",
-        "rarityscore": "349",
-        "rank": "151",
-        "name": "DoginalCowz #136"
+        "rarityscore": 410,
+        "name": "Doginal Cowz #136",
+        "rank": 134
     },
     {
         "inscriptionid": "a633718ee8bab13fa94f6867c31a922ca5985c268bd8804676edeeb888d0c541i0",
-        "rarityscore": "332",
-        "rank": "82",
-        "name": "DoginalCowz #137"
+        "rarityscore": 393,
+        "name": "Doginal Cowz #137",
+        "rank": 76
     },
     {
         "inscriptionid": "17d9589445a3c0d7a85d79fcb66cc7737b07d0984286d74acdfbc5445d42ac39i0",
-        "rarityscore": "366",
-        "rank": "212",
-        "name": "DoginalCowz #138"
+        "rarityscore": 435,
+        "name": "Doginal Cowz #138",
+        "rank": 218
     },
     {
         "inscriptionid": "2ea04c5bf99d8029aae652b2e4733ca6c97c71157d3686c7613f3b096bb5ccfdi0",
-        "rarityscore": "298",
-        "rank": "44",
-        "name": "DoginalCowz #139"
+        "rarityscore": 362,
+        "name": "Doginal Cowz #139",
+        "rank": 44
     },
     {
         "inscriptionid": "3a0bf97f1cf076fde83dcc9160bb03f9bae942015c28db661c9f3410ee564abfi0",
-        "rarityscore": "359",
-        "rank": "188",
-        "name": "DoginalCowz #140"
+        "rarityscore": 430,
+        "name": "Doginal Cowz #140",
+        "rank": 198
     },
     {
         "inscriptionid": "ce6e508a8da2e5ba9e4371777d3bb9d05bda28cada03e9c79bee991fcb122c19i0",
-        "rarityscore": "349",
-        "rank": "151",
-        "name": "DoginalCowz #141"
+        "rarityscore": 418,
+        "name": "Doginal Cowz #141",
+        "rank": 165
     },
     {
         "inscriptionid": "50cad1efbca5d090d3ae2799324956c6cbc999d88c8cf300461ea914297109a3i0",
-        "rarityscore": "270",
-        "rank": "21",
-        "name": "DoginalCowz #142"
+        "rarityscore": 333,
+        "name": "Doginal Cowz #142",
+        "rank": 21
     },
     {
         "inscriptionid": "ec4404c7ff4d0be03749d24fa9f2e33087a75d5861f276b255fc5b11912cb156i0",
-        "rarityscore": "365",
-        "rank": "207",
-        "name": "DoginalCowz #143"
+        "rarityscore": 435,
+        "name": "Doginal Cowz #143",
+        "rank": 219
     },
     {
         "inscriptionid": "1b447baf1f6a704b4b6feadb920c63510ce046eb253ca5b605b5fc69aecea7e3i0",
-        "rarityscore": "374",
-        "rank": "248",
-        "name": "DoginalCowz #144"
+        "rarityscore": 443,
+        "name": "Doginal Cowz #144",
+        "rank": 244
     },
     {
         "inscriptionid": "b312923237ac81a34d63b782bcf6f368e92cccffcc73d1a4cd8565e1602685aai0",
-        "rarityscore": "388",
-        "rank": "292",
-        "name": "DoginalCowz #145"
+        "rarityscore": 455,
+        "name": "Doginal Cowz #145",
+        "rank": 286
     },
     {
         "inscriptionid": "6f2d0db97240fa1378e1e10eaabec9c821d53862fe0a5371f5dc00afcd2eb4bfi0",
-        "rarityscore": "339",
-        "rank": "107",
-        "name": "DoginalCowz #146"
+        "rarityscore": 408,
+        "name": "Doginal Cowz #146",
+        "rank": 124
     },
     {
         "inscriptionid": "5999b3221dba3fa2ee319f7aea9a205f37952e43b44648a4b567a42bbace95e7i0",
-        "rarityscore": "336",
-        "rank": "98",
-        "name": "DoginalCowz #147"
+        "rarityscore": 404,
+        "name": "Doginal Cowz #147",
+        "rank": 105
     },
     {
         "inscriptionid": "9ba67ac987108020aaa51ba2e50a33715e2a54a5ef85f3f46031f96ce45ad604i0",
-        "rarityscore": "435",
-        "rank": "382",
-        "name": "DoginalCowz #148"
+        "rarityscore": 506,
+        "name": "Doginal Cowz #148",
+        "rank": 373
     },
     {
         "inscriptionid": "36b962ef87d41d6d44d20053ce9b69cef8ebb2911974e3ffd27c614a35b4e186i0",
-        "rarityscore": "280",
-        "rank": "25",
-        "name": "DoginalCowz #149"
+        "rarityscore": 344,
+        "name": "Doginal Cowz #149",
+        "rank": 26
     },
     {
         "inscriptionid": "0efeb442f693ec8d48b79716d266d686ecbff77113a8487919718f15504e05a8i0",
-        "rarityscore": "364",
-        "rank": "204",
-        "name": "DoginalCowz #150"
+        "rarityscore": 432,
+        "name": "Doginal Cowz #150",
+        "rank": 209
     },
     {
         "inscriptionid": "c7b24bf494e9c854bcb22bb97b4c517eb4eab34aab379adfe83a34ee5b75057ci0",
-        "rarityscore": "339",
-        "rank": "107",
-        "name": "DoginalCowz #151"
+        "rarityscore": 410,
+        "name": "Doginal Cowz #151",
+        "rank": 135
     },
     {
         "inscriptionid": "d78f09ab08c00a65b332a22511768c43622b79eb81ece7a78f8a1c3a81fd9697i0",
-        "rarityscore": "378",
-        "rank": "261",
-        "name": "DoginalCowz #152"
+        "rarityscore": 447,
+        "name": "Doginal Cowz #152",
+        "rank": 257
     },
     {
         "inscriptionid": "eea2be0498b75107ad83a1a817ce199ae82df1436bdd4d816157a65930665ca2i0",
-        "rarityscore": "410",
-        "rank": "339",
-        "name": "DoginalCowz #153"
+        "rarityscore": 478,
+        "name": "Doginal Cowz #153",
+        "rank": 322
     },
     {
         "inscriptionid": "c53ac25fe646c3ce1f599abebb4a9277497d1992ea247e92c2970794ee2db263i0",
-        "rarityscore": "393",
-        "rank": "307",
-        "name": "DoginalCowz #154"
+        "rarityscore": 463,
+        "name": "Doginal Cowz #154",
+        "rank": 305
     },
     {
         "inscriptionid": "0e31199d9b9e4032a48de38adc7683e9065e4098c71fc7bfd899c2549654a7a4i0",
-        "rarityscore": "344",
-        "rank": "128",
-        "name": "DoginalCowz #155"
+        "rarityscore": 413,
+        "name": "Doginal Cowz #155",
+        "rank": 144
     },
     {
         "inscriptionid": "4e293fbb5db301491f4f1cba8f0698b206d6c3a073e4b2a1a2b944310833fef4i0",
-        "rarityscore": "406",
-        "rank": "330",
-        "name": "DoginalCowz #156"
+        "rarityscore": 476,
+        "name": "Doginal Cowz #156",
+        "rank": 320
     },
     {
         "inscriptionid": "53379bcb6d6d67c9d17b4481d22dfe15b10c450ce50b06b1777e593d335ba395i0",
-        "rarityscore": "361",
-        "rank": "193",
-        "name": "DoginalCowz #157"
+        "rarityscore": 430,
+        "name": "Doginal Cowz #157",
+        "rank": 199
     },
     {
         "inscriptionid": "902f0d124c269cd0903d5fedf9dfe7a68c9c26922911ab429303e950b7a87a27i0",
-        "rarityscore": "355",
-        "rank": "172",
-        "name": "DoginalCowz #158"
+        "rarityscore": 425,
+        "name": "Doginal Cowz #158",
+        "rank": 181
     },
     {
         "inscriptionid": "48b9d4ce933eb4a4a33ccb81ff287b0496d70eb530777d9ed4e9849190406d85i0",
-        "rarityscore": "284",
-        "rank": "28",
-        "name": "DoginalCowz #159"
+        "rarityscore": 349,
+        "name": "Doginal Cowz #159",
+        "rank": 31
     },
     {
         "inscriptionid": "95e504e2f9a009e837fd8aca96e095715cbba9950576269151e07b10a3be0a4di0",
-        "rarityscore": "290",
-        "rank": "35",
-        "name": "DoginalCowz #160"
+        "rarityscore": 354,
+        "name": "Doginal Cowz #160",
+        "rank": 38
     },
     {
         "inscriptionid": "ebbd2ce8d636177ee15c536e86049a025999f8f96aeafa3e5dc3ef2f228e2930i0",
-        "rarityscore": "327",
-        "rank": "70",
-        "name": "DoginalCowz #161"
+        "rarityscore": 397,
+        "name": "Doginal Cowz #161",
+        "rank": 85
     },
     {
         "inscriptionid": "26aa69a5db3b4d139686c7fb618125abe80fa7506486492b7cd6a3359106f8d2i0",
-        "rarityscore": "404",
-        "rank": "325",
-        "name": "DoginalCowz #162"
+        "rarityscore": 474,
+        "name": "Doginal Cowz #162",
+        "rank": 317
     },
     {
         "inscriptionid": "edf6dba6707d0126167e58d03bd4c83c50ef11304664d0988d3da99805b5119ai0",
-        "rarityscore": "376",
-        "rank": "254",
-        "name": "DoginalCowz #163"
+        "rarityscore": 447,
+        "name": "Doginal Cowz #163",
+        "rank": 258
     },
     {
         "inscriptionid": "0a215f82e32a4addce142d52f7344e61bd5c5fc6d06aa0657cf548c8c1a427c3i0",
-        "rarityscore": "354",
-        "rank": "170",
-        "name": "DoginalCowz #164"
+        "rarityscore": 423,
+        "name": "Doginal Cowz #164",
+        "rank": 176
     },
     {
         "inscriptionid": "eba35f9f9cc18df511e420f4c11401c1aacea798028a89572bfe21212a11c4afi0",
-        "rarityscore": "363",
-        "rank": "197",
-        "name": "DoginalCowz #165"
+        "rarityscore": 434,
+        "name": "Doginal Cowz #165",
+        "rank": 216
     },
     {
         "inscriptionid": "834d6e5f6b81c21319f5e1d5b7e538b24e35c4e1a77a5304e6afa52ade972890i0",
-        "rarityscore": "345",
-        "rank": "133",
-        "name": "DoginalCowz #166"
+        "rarityscore": 414,
+        "name": "Doginal Cowz #166",
+        "rank": 148
     },
     {
         "inscriptionid": "9aee8ad7b98b09046bfeafab492c0c1ce333e1fc3453eac1b2d2a6e75f623446i0",
-        "rarityscore": "251",
-        "rank": "9",
-        "name": "DoginalCowz #167"
+        "rarityscore": 315,
+        "name": "Doginal Cowz #167",
+        "rank": 12
     },
     {
         "inscriptionid": "33708682fdbbd3ef600c4a398f3dc3c64d8f14a28e27d0c52243d496ab9433d2i0",
-        "rarityscore": "385",
-        "rank": "283",
-        "name": "DoginalCowz #168"
+        "rarityscore": 456,
+        "name": "Doginal Cowz #168",
+        "rank": 289
     },
     {
         "inscriptionid": "08fa0b94b4b628bf8cff6086c5a11babcdc010bcf10ba5c410f14d3af4e587eai0",
-        "rarityscore": "310",
-        "rank": "51",
-        "name": "DoginalCowz #169"
+        "rarityscore": 379,
+        "name": "Doginal Cowz #169",
+        "rank": 55
     },
     {
         "inscriptionid": "06cebd9aa0409b56fce7f2d64ffadd575caf9acd73dd5c22d498f8f05c5c9f16i0",
-        "rarityscore": "360",
-        "rank": "191",
-        "name": "DoginalCowz #170"
+        "rarityscore": 430,
+        "name": "Doginal Cowz #170",
+        "rank": 200
     },
     {
         "inscriptionid": "18fae9cb2705085190995cc834915ffd7fe082bce1d3e3b62b15aaa6f082fe41i0",
-        "rarityscore": "231",
-        "rank": "4",
-        "name": "DoginalCowz #171"
+        "rarityscore": 295,
+        "name": "Doginal Cowz #171",
+        "rank": 7
     },
     {
         "inscriptionid": "60d55c6f43bcaa95c3e80361b8a00674f4365eff13174405251af483e01845f0i0",
-        "rarityscore": "305",
-        "rank": "48",
-        "name": "DoginalCowz #172"
+        "rarityscore": 369,
+        "name": "Doginal Cowz #172",
+        "rank": 50
     },
     {
         "inscriptionid": "b9c5cd15a5a5bcd353dccf001ab2fdd7597dc2733162225a7e6ee86709978ce3i0",
-        "rarityscore": "456",
-        "rank": "407",
-        "name": "DoginalCowz #173"
+        "rarityscore": 525,
+        "name": "Doginal Cowz #173",
+        "rank": 393
     },
     {
         "inscriptionid": "4ee2e3f0b188aceff39cf5664b89ee051c3796de64885d59a998e9db3a6b207fi0",
-        "rarityscore": "379",
-        "rank": "265",
-        "name": "DoginalCowz #174"
+        "rarityscore": 449,
+        "name": "Doginal Cowz #174",
+        "rank": 267
     },
     {
         "inscriptionid": "db00a4030ba470597f384da3e11fc4a0418906c51296277f5092155123a6ac6ei0",
-        "rarityscore": "358",
-        "rank": "186",
-        "name": "DoginalCowz #175"
+        "rarityscore": 427,
+        "name": "Doginal Cowz #175",
+        "rank": 187
     },
     {
         "inscriptionid": "24a1f490ba9a0e981593a99021e24722ef78bd3e2b7aeda30762f7e6e46bdf7ei0",
-        "rarityscore": "365",
-        "rank": "207",
-        "name": "DoginalCowz #176"
+        "rarityscore": 433,
+        "name": "Doginal Cowz #176",
+        "rank": 213
     },
     {
         "inscriptionid": "9094ffd238089dcada51db15f883371426c0d813ed5e5f1074c5155ffd6beeaai0",
-        "rarityscore": "368",
-        "rank": "223",
-        "name": "DoginalCowz #177"
+        "rarityscore": 436,
+        "name": "Doginal Cowz #177",
+        "rank": 221
     },
     {
         "inscriptionid": "39087fa21f21c7ff58b5712278f453930d40825321a6743d0e953c6300da252fi0",
-        "rarityscore": "373",
-        "rank": "242",
-        "name": "DoginalCowz #178"
+        "rarityscore": 442,
+        "name": "Doginal Cowz #178",
+        "rank": 241
     },
     {
         "inscriptionid": "9f5519aaab3252f9db3bef4d5f5b7cec25019506036dcfa42bc1bf49c7aca8edi0",
-        "rarityscore": "332",
-        "rank": "82",
-        "name": "DoginalCowz #179"
+        "rarityscore": 402,
+        "name": "Doginal Cowz #179",
+        "rank": 98
     },
     {
         "inscriptionid": "41c72c62b8888ce47f83c2749480ca3fe7a9359e581a4693b7b626b2aa936681i0",
-        "rarityscore": "345",
-        "rank": "133",
-        "name": "DoginalCowz #180"
+        "rarityscore": 414,
+        "name": "Doginal Cowz #180",
+        "rank": 149
     },
     {
         "inscriptionid": "7b082c0c83faaf18e2c2b20c2b422a0e091b8f8f6e136cb310faed1250443170i0",
-        "rarityscore": "344",
-        "rank": "128",
-        "name": "DoginalCowz #181"
+        "rarityscore": 415,
+        "name": "Doginal Cowz #181",
+        "rank": 156
     },
     {
         "inscriptionid": "699cdb46a5a7df38d2385b0a24b005d08ebb8424e9ac511548f7b0e24cf7217di0",
-        "rarityscore": "339",
-        "rank": "107",
-        "name": "DoginalCowz #182"
+        "rarityscore": 408,
+        "name": "Doginal Cowz #182",
+        "rank": 125
     },
     {
         "inscriptionid": "66f3f96f9a2ef3397c955ad5caa413910d0a7d6cf4eb73bcea44d015eca0dcdfi0",
-        "rarityscore": "387",
-        "rank": "290",
-        "name": "DoginalCowz #183"
+        "rarityscore": 456,
+        "name": "Doginal Cowz #183",
+        "rank": 290
     },
     {
         "inscriptionid": "5e1e24b4da9817237cc964560dd8fad37e25169d7722f148d367f4270b5f3a75i0",
-        "rarityscore": "377",
-        "rank": "256",
-        "name": "DoginalCowz #184"
+        "rarityscore": 446,
+        "name": "Doginal Cowz #184",
+        "rank": 255
     },
     {
         "inscriptionid": "01e1674a07f9634dff17dacab22d3d52dd83456919fcc5031f8ee603c93543e9i0",
-        "rarityscore": "342",
-        "rank": "117",
-        "name": "DoginalCowz #185"
+        "rarityscore": 411,
+        "name": "Doginal Cowz #185",
+        "rank": 139
     },
     {
         "inscriptionid": "edad3f9db1ba289b3b37e51f28293c6d325741eb64709529439871ed86496d34i0",
-        "rarityscore": "344",
-        "rank": "128",
-        "name": "DoginalCowz #186"
+        "rarityscore": 413,
+        "name": "Doginal Cowz #186",
+        "rank": 145
     },
     {
         "inscriptionid": "3eebb7fab97e6b0a89b99657cb0160abf339a05f95bb48d36e28ca4c0e449408i0",
-        "rarityscore": "371",
-        "rank": "235",
-        "name": "DoginalCowz #187"
+        "rarityscore": 443,
+        "name": "Doginal Cowz #187",
+        "rank": 245
     },
     {
         "inscriptionid": "1f9e71cdf2f10c16692c63d06146895c06ece1d39d0a21fb383cfdc2aa2647fei0",
-        "rarityscore": "391",
-        "rank": "302",
-        "name": "DoginalCowz #188"
+        "rarityscore": 461,
+        "name": "Doginal Cowz #188",
+        "rank": 301
     },
     {
         "inscriptionid": "dac5ecbd6d360b10d524867511f374534c947c2a614471438b8503eeb5fe6449i0",
-        "rarityscore": "357",
-        "rank": "180",
-        "name": "DoginalCowz #189"
+        "rarityscore": 427,
+        "name": "Doginal Cowz #189",
+        "rank": 188
     },
     {
         "inscriptionid": "1db09d4e2c01bd191058cea2941412f35435566dde59cf5abb210a264e06fc54i0",
-        "rarityscore": "355",
-        "rank": "172",
-        "name": "DoginalCowz #190"
+        "rarityscore": 425,
+        "name": "Doginal Cowz #190",
+        "rank": 182
     },
     {
         "inscriptionid": "f3db3efe323c401852f5cd0650c20d084a9dffc291e65a94f087ea165d266e2ei0",
-        "rarityscore": "335",
-        "rank": "92",
-        "name": "DoginalCowz #191"
+        "rarityscore": 404,
+        "name": "Doginal Cowz #191",
+        "rank": 106
     },
     {
         "inscriptionid": "6420d92351a2c4c9afa07bf3714bc63b15942efa9250d0f27a13a452e19c3bcci0",
-        "rarityscore": "281",
-        "rank": "26",
-        "name": "DoginalCowz #192"
+        "rarityscore": 338,
+        "name": "Doginal Cowz #192",
+        "rank": 23
     },
     {
         "inscriptionid": "25b7223a37aae6bf6031d558bd13943279dc7548ee7a0dfb6d64df229427ad2bi0",
-        "rarityscore": "419",
-        "rank": "354",
-        "name": "DoginalCowz #193"
+        "rarityscore": 488,
+        "name": "Doginal Cowz #193",
+        "rank": 346
     },
     {
         "inscriptionid": "d995d192ccc7292d5842a5bd69f953f4c62a6b9efd18af2ea3c7c9e18ac4de63i0",
-        "rarityscore": "386",
-        "rank": "284",
-        "name": "DoginalCowz #194"
+        "rarityscore": 456,
+        "name": "Doginal Cowz #194",
+        "rank": 291
     },
     {
         "inscriptionid": "76a4573f65c423ccbc80c29274f911b303abaadaa39068089dbb5a27501bd6dbi0",
-        "rarityscore": "275",
-        "rank": "23",
-        "name": "DoginalCowz #195"
+        "rarityscore": 338,
+        "name": "Doginal Cowz #195",
+        "rank": 24
     },
     {
         "inscriptionid": "513efef555556ad22aaa621fd1c4cd59840b8e66e615424746f192f44f38b99di0",
-        "rarityscore": "363",
-        "rank": "197",
-        "name": "DoginalCowz #196"
+        "rarityscore": 432,
+        "name": "Doginal Cowz #196",
+        "rank": 210
     },
     {
         "inscriptionid": "199f1c72d9d9deff31dff99181d6acf443e7605b936859b7aeb3afafe61b012ei0",
-        "rarityscore": "412",
-        "rank": "342",
-        "name": "DoginalCowz #197"
+        "rarityscore": 482,
+        "name": "Doginal Cowz #197",
+        "rank": 332
     },
     {
         "inscriptionid": "51724c14a4aa79a4efad49ddeaa496c880d101384a188eb61d8671cb6a69772fi0",
-        "rarityscore": "286",
-        "rank": "30",
-        "name": "DoginalCowz #198"
+        "rarityscore": 349,
+        "name": "Doginal Cowz #198",
+        "rank": 32
     },
     {
         "inscriptionid": "cd808e5e70443d77aa3de4d103b373430ecffee48844c18671305f6cb72ca9e2i0",
-        "rarityscore": "349",
-        "rank": "151",
-        "name": "DoginalCowz #199"
+        "rarityscore": 420,
+        "name": "Doginal Cowz #199",
+        "rank": 172
     },
     {
         "inscriptionid": "9d6ddb334533c4cba4c7247d26123fed951929739515de606e57238ca7edef87i0",
-        "rarityscore": "350",
-        "rank": "160",
-        "name": "DoginalCowz #200"
+        "rarityscore": 417,
+        "name": "Doginal Cowz #200",
+        "rank": 162
     },
     {
         "inscriptionid": "50ac54f86ce0dea3755e708f0370fa7e0a0f9af361e894bd223efd7e4385140fi0",
-        "rarityscore": "395",
-        "rank": "311",
-        "name": "DoginalCowz #201"
+        "rarityscore": 464,
+        "name": "Doginal Cowz #201",
+        "rank": 306
     },
     {
         "inscriptionid": "22818f3f1fb9c8d01bc0f0f243251dc124dd7593b72ea5659a3af51e5050b88ai0",
-        "rarityscore": "383",
-        "rank": "280",
-        "name": "DoginalCowz #202"
+        "rarityscore": 452,
+        "name": "Doginal Cowz #202",
+        "rank": 274
     },
     {
         "inscriptionid": "45096fa876e61b8c228a89809988ee35c425c84cb2aad037954bf29d2cb45d7di0",
-        "rarityscore": "321",
-        "rank": "62",
-        "name": "DoginalCowz #203"
+        "rarityscore": 388,
+        "name": "Doginal Cowz #203",
+        "rank": 65
     },
     {
         "inscriptionid": "cf3ff5808fa72d8193d5f8fcfdcd91bd2d58ca0fc84d7dff6f09c52404c59763i0",
-        "rarityscore": "394",
-        "rank": "310",
-        "name": "DoginalCowz #204"
+        "rarityscore": 466,
+        "name": "Doginal Cowz #204",
+        "rank": 309
     },
     {
         "inscriptionid": "7c736fd34f36ec206d9d299303274013cbaf035c62abaf5c2248b2671ddc85aai0",
-        "rarityscore": "363",
-        "rank": "197",
-        "name": "DoginalCowz #205"
+        "rarityscore": 438,
+        "name": "Doginal Cowz #205",
+        "rank": 231
     },
     {
         "inscriptionid": "4f2a9bea248648ad2f02d7cdc28ee40afd9a02ba39aaa5f414a3b5bb0cd22968i0",
-        "rarityscore": "322",
-        "rank": "63",
-        "name": "DoginalCowz #206"
+        "rarityscore": 391,
+        "name": "Doginal Cowz #206",
+        "rank": 70
     },
     {
         "inscriptionid": "0db9351f562c07f682f781d8184b34d7e2869cc1ed0bfe29d0030930b18c1fe7i0",
-        "rarityscore": "295",
-        "rank": "42",
-        "name": "DoginalCowz #207"
+        "rarityscore": 361,
+        "name": "Doginal Cowz #207",
+        "rank": 43
     },
     {
         "inscriptionid": "af5172f839e598446e03a9e3c3bd351b1262441e9f39c744787ca7d060bf57a2i0",
-        "rarityscore": "395",
-        "rank": "311",
-        "name": "DoginalCowz #208"
+        "rarityscore": 468,
+        "name": "Doginal Cowz #208",
+        "rank": 312
     },
     {
         "inscriptionid": "cafabc345216264766449d20c5f5fb6e6eddf78961f6edc4ba0329aac12214c3i0",
-        "rarityscore": "369",
-        "rank": "226",
-        "name": "DoginalCowz #209"
+        "rarityscore": 437,
+        "name": "Doginal Cowz #209",
+        "rank": 226
     },
     {
         "inscriptionid": "3352c92af885b26838545b6a05d6aedfe24192f9b74bea7dcba57776b245e7cci0",
-        "rarityscore": "437",
-        "rank": "383",
-        "name": "DoginalCowz #210"
+        "rarityscore": 507,
+        "name": "Doginal Cowz #210",
+        "rank": 375
     },
     {
         "inscriptionid": "5893b53b19ae264b663ff11aa19d306a7a218e50692931075debca1c09d78754i0",
-        "rarityscore": "314",
-        "rank": "56",
-        "name": "DoginalCowz #211"
+        "rarityscore": 382,
+        "name": "Doginal Cowz #211",
+        "rank": 60
     },
     {
         "inscriptionid": "c8343f4078fa45c2031c23ab8b1d7d9b99c36ccb6be1d5d243718085574d16f8i0",
-        "rarityscore": "336",
-        "rank": "98",
-        "name": "DoginalCowz #212"
+        "rarityscore": 397,
+        "name": "Doginal Cowz #212",
+        "rank": 86
     },
     {
         "inscriptionid": "96a70d50eed40570163a483d693f8f4387953d9df37aae9ca1ffb27a6353c6ffi0",
-        "rarityscore": "463",
-        "rank": "414",
-        "name": "DoginalCowz #213"
+        "rarityscore": 539,
+        "name": "Doginal Cowz #213",
+        "rank": 413
     },
     {
         "inscriptionid": "409f74369e24ac1b8a292f591cefaec372bfb6c88fe01c424ee5458d12d25986i0",
-        "rarityscore": "347",
-        "rank": "143",
-        "name": "DoginalCowz #214"
+        "rarityscore": 415,
+        "name": "Doginal Cowz #214",
+        "rank": 157
     },
     {
         "inscriptionid": "c968d5431ef69619795b763fb33f232ef3ad4c9c4d84d06073e76b89ecec5ce0i0",
-        "rarityscore": "393",
-        "rank": "307",
-        "name": "DoginalCowz #215"
+        "rarityscore": 461,
+        "name": "Doginal Cowz #215",
+        "rank": 302
     },
     {
         "inscriptionid": "813062588c45c826eb766d75c5c003a47d2762b6f7eaa40ff06cc72a764484aei0",
-        "rarityscore": "295",
-        "rank": "42",
-        "name": "DoginalCowz #216"
+        "rarityscore": 358,
+        "name": "Doginal Cowz #216",
+        "rank": 42
     },
     {
         "inscriptionid": "1d3f2929b3bf717ae29fb6576eecd14c8967ed0f8c9ac75dac2f039115744875i0",
-        "rarityscore": "382",
-        "rank": "275",
-        "name": "DoginalCowz #217"
+        "rarityscore": 455,
+        "name": "Doginal Cowz #217",
+        "rank": 287
     },
     {
         "inscriptionid": "b83e7854bc82e8e4a4e118c9bad8d52357706aeb4e6a38748a00b14346579a8ei0",
-        "rarityscore": "427",
-        "rank": "370",
-        "name": "DoginalCowz #218"
+        "rarityscore": 504,
+        "name": "Doginal Cowz #218",
+        "rank": 370
     },
     {
         "inscriptionid": "3ac8431f7a37379895946ee0e4520ea1f3a884f816f0714283ce8d70866223a9i0",
-        "rarityscore": "366",
-        "rank": "212",
-        "name": "DoginalCowz #219"
+        "rarityscore": 437,
+        "name": "Doginal Cowz #219",
+        "rank": 227
     },
     {
         "inscriptionid": "69c43c75d9e06825042287747fb4caea93498a2d0e8a789b357a700d2f122cd2i0",
-        "rarityscore": "434",
-        "rank": "381",
-        "name": "DoginalCowz #220"
+        "rarityscore": 508,
+        "name": "Doginal Cowz #220",
+        "rank": 376
     },
     {
         "inscriptionid": "0c8c71a6911a3e34b47691cb39693a4963c5a54e9596f5431cb3ea0cb18bb3c4i0",
-        "rarityscore": "377",
-        "rank": "256",
-        "name": "DoginalCowz #221"
+        "rarityscore": 449,
+        "name": "Doginal Cowz #221",
+        "rank": 268
     },
     {
         "inscriptionid": "8d02a21dc44bcd650896ee91758ea813952b0181d8fbc7805358af0aa4fc0e03i0",
-        "rarityscore": "450",
-        "rank": "396",
-        "name": "DoginalCowz #222"
+        "rarityscore": 527,
+        "name": "Doginal Cowz #222",
+        "rank": 396
     },
     {
         "inscriptionid": "e19443947a0c9271d6effa062f1f77b05ae365971812e262dae0145c1cad1800i0",
-        "rarityscore": "431",
-        "rank": "376",
-        "name": "DoginalCowz #223"
+        "rarityscore": 508,
+        "name": "Doginal Cowz #223",
+        "rank": 377
     },
     {
         "inscriptionid": "607fc7b5825cd7359e4ad93f191ec6fc30b49c70f68f70c68ec5d9bdf945653di0",
-        "rarityscore": "360",
-        "rank": "191",
-        "name": "DoginalCowz #224"
+        "rarityscore": 429,
+        "name": "Doginal Cowz #224",
+        "rank": 197
     },
     {
         "inscriptionid": "8eae6ff035ac6358b35b66a660d444c6ccd2a03ac276652447c112ea1d9dea12i0",
-        "rarityscore": "427",
-        "rank": "370",
-        "name": "DoginalCowz #225"
+        "rarityscore": 505,
+        "name": "Doginal Cowz #225",
+        "rank": 372
     },
     {
         "inscriptionid": "8b85d423e02ae6269ae7ac42c5c859cf400c2810fced2617620a066f224c878fi0",
-        "rarityscore": "332",
-        "rank": "82",
-        "name": "DoginalCowz #226"
+        "rarityscore": 401,
+        "name": "Doginal Cowz #226",
+        "rank": 94
     },
     {
         "inscriptionid": "32350992dce29c340d2583c28a541ff0f05929a8bffa1fedeb1d113be4609c8ei0",
-        "rarityscore": "509",
-        "rank": "420",
-        "name": "DoginalCowz #227"
+        "rarityscore": 585,
+        "name": "Doginal Cowz #227",
+        "rank": 420
     },
     {
         "inscriptionid": "e79c627871dc1a380bebd537e32035549d09a4f0a639e49f4c956d59bb35631ai0",
-        "rarityscore": "456",
-        "rank": "407",
-        "name": "DoginalCowz #228"
+        "rarityscore": 531,
+        "name": "Doginal Cowz #228",
+        "rank": 404
     },
     {
         "inscriptionid": "a3837fac027117889b4a980a5a4eea779094020d86614a8760c6a3dc67537290i0",
-        "rarityscore": "336",
-        "rank": "98",
-        "name": "DoginalCowz #229"
+        "rarityscore": 408,
+        "name": "Doginal Cowz #229",
+        "rank": 126
     },
     {
         "inscriptionid": "9fa0000d18af6a7ac941118c7a9e631712d1cbb7faa38ccd4eea241247907b3ei0",
-        "rarityscore": "357",
-        "rank": "180",
-        "name": "DoginalCowz #230"
+        "rarityscore": 430,
+        "name": "Doginal Cowz #230",
+        "rank": 201
     },
     {
         "inscriptionid": "c6ed4bc9d18e27a2de6a440af237c9e6db9852afd2b5bba3fba34d3fdab3d11fi0",
-        "rarityscore": "399",
-        "rank": "317",
-        "name": "DoginalCowz #231"
+        "rarityscore": 472,
+        "name": "Doginal Cowz #231",
+        "rank": 316
     },
     {
         "inscriptionid": "7a744e9fc744278295477c7181219f87410aed99e59839b0ae5a67656af867ebi0",
-        "rarityscore": "381",
-        "rank": "273",
-        "name": "DoginalCowz #232"
+        "rarityscore": 456,
+        "name": "Doginal Cowz #232",
+        "rank": 292
     },
     {
         "inscriptionid": "526cf52e6de0a2bd180a3bbd0d840cf4bee5e71017f247dd94f67d8d84709386i0",
-        "rarityscore": "458",
-        "rank": "410",
-        "name": "DoginalCowz #233"
+        "rarityscore": 534,
+        "name": "Doginal Cowz #233",
+        "rank": 408
     },
     {
         "inscriptionid": "f58824ac92edc3e3e1ba5cb6c815cb8a1d99fb9ad61d1c72608b4e4189d93933i0",
-        "rarityscore": "431",
-        "rank": "376",
-        "name": "DoginalCowz #234"
+        "rarityscore": 504,
+        "name": "Doginal Cowz #234",
+        "rank": 371
     },
     {
         "inscriptionid": "c35165b08f8e345c6b5893bf4661dddd445d0db57fba3595d1714ef098001e4ai0",
-        "rarityscore": "459",
-        "rank": "411",
-        "name": "DoginalCowz #235"
+        "rarityscore": 536,
+        "name": "Doginal Cowz #235",
+        "rank": 411
     },
     {
         "inscriptionid": "60879e57dafa41dce815ac6d92ec4940323efc71a06227adb3643af426021ac7i0",
-        "rarityscore": "405",
-        "rank": "327",
-        "name": "DoginalCowz #236"
+        "rarityscore": 480,
+        "name": "Doginal Cowz #236",
+        "rank": 328
     },
     {
         "inscriptionid": "18eab4c768caa7f164e71f2fd58af9cac6509efe52907bdab9290cb559d6b16ai0",
-        "rarityscore": "438",
-        "rank": "386",
-        "name": "DoginalCowz #237"
+        "rarityscore": 513,
+        "name": "Doginal Cowz #237",
+        "rank": 385
     },
     {
         "inscriptionid": "c4118f5010cd087df8d329e8b749975964714365241ad48c36641717814adab0i0",
-        "rarityscore": "346",
-        "rank": "137",
-        "name": "DoginalCowz #238"
+        "rarityscore": 412,
+        "name": "Doginal Cowz #238",
+        "rank": 142
     },
     {
         "inscriptionid": "5e90ca1e6e7c4609938466629f6e7e3383162bd4fb52a1bfe921f698e252e618i0",
-        "rarityscore": "402",
-        "rank": "323",
-        "name": "DoginalCowz #239"
+        "rarityscore": 481,
+        "name": "Doginal Cowz #239",
+        "rank": 330
     },
     {
         "inscriptionid": "3e096875c38b694bad49618d3e15c7d8399eec647fef6f86e98b108c6e247879i0",
-        "rarityscore": "453",
-        "rank": "402",
-        "name": "DoginalCowz #240"
+        "rarityscore": 529,
+        "name": "Doginal Cowz #240",
+        "rank": 400
     },
     {
         "inscriptionid": "e3071d339dab8857a5ee34a403732ab7c4f42a98453dc2aa9a719b853783542ci0",
-        "rarityscore": "408",
-        "rank": "333",
-        "name": "DoginalCowz #241"
+        "rarityscore": 484,
+        "name": "Doginal Cowz #241",
+        "rank": 338
     },
     {
         "inscriptionid": "6f3e59f06144c01b7f07532df794924c15c37f279047f730943bcc202bb3e853i0",
-        "rarityscore": "399",
-        "rank": "317",
-        "name": "DoginalCowz #242"
+        "rarityscore": 475,
+        "name": "Doginal Cowz #242",
+        "rank": 318
     },
     {
         "inscriptionid": "815a62129e6f32a147f4a439ddcf65304fd35381a8610d18ad34dfb0778db92di0",
-        "rarityscore": "454",
-        "rank": "404",
-        "name": "DoginalCowz #243"
+        "rarityscore": 534,
+        "name": "Doginal Cowz #243",
+        "rank": 409
     },
     {
         "inscriptionid": "4cd6492f74f0ae731c04faac77ebbdd40caa5a0046d9bc0646d2d634fc998deai0",
-        "rarityscore": "348",
-        "rank": "148",
-        "name": "DoginalCowz #244"
+        "rarityscore": 419,
+        "name": "Doginal Cowz #244",
+        "rank": 169
     },
     {
         "inscriptionid": "cf877565baf89c3fc676b885ef725ecf001856f194a3fc58aebcbd39b77abb5ci0",
-        "rarityscore": "430",
-        "rank": "374",
-        "name": "DoginalCowz #245"
+        "rarityscore": 509,
+        "name": "Doginal Cowz #245",
+        "rank": 379
     },
     {
         "inscriptionid": "3911d3a9b81aa84a06bfdedae4af4a7bef6807886c95c2f7e65683c36ef72d7di0",
-        "rarityscore": "382",
-        "rank": "275",
-        "name": "DoginalCowz #246"
+        "rarityscore": 453,
+        "name": "Doginal Cowz #246",
+        "rank": 277
     },
     {
         "inscriptionid": "b3d34736d72ac912f9c5f18139faab9aeca535069d71284fa10a278f5adf96bai0",
-        "rarityscore": "372",
-        "rank": "236",
-        "name": "DoginalCowz #247"
+        "rarityscore": 447,
+        "name": "Doginal Cowz #247",
+        "rank": 259
     },
     {
         "inscriptionid": "4faa167cead0c36a8a6499351cd9b8dcd4853c89837df25961e02668723ca2d8i0",
-        "rarityscore": "293",
-        "rank": "38",
-        "name": "DoginalCowz #248"
+        "rarityscore": 353,
+        "name": "Doginal Cowz #248",
+        "rank": 36
     },
     {
         "inscriptionid": "631b53ce5b897cbfd9f5bc87161b985b13bc039199a2f76aa76b8bb549c0219ai0",
-        "rarityscore": "412",
-        "rank": "342",
-        "name": "DoginalCowz #249"
+        "rarityscore": 483,
+        "name": "Doginal Cowz #249",
+        "rank": 334
     },
     {
         "inscriptionid": "8b8d110c4d9a575b5a9e81ede3c311226991e3329afe3f8c02974727fd7248c4i0",
-        "rarityscore": "400",
-        "rank": "321",
-        "name": "DoginalCowz #250"
+        "rarityscore": 485,
+        "name": "Doginal Cowz #250",
+        "rank": 341
     },
     {
         "inscriptionid": "099ee6b190402441e551a5096cf17a56f8ff9fb8a7e3eefd15a2a5b058eeceaai0",
-        "rarityscore": "366",
-        "rank": "212",
-        "name": "DoginalCowz #251"
+        "rarityscore": 447,
+        "name": "Doginal Cowz #251",
+        "rank": 260
     },
     {
         "inscriptionid": "fc934d085e536a9b385ea7af4dd4fecaa3bb95317e4f32ea9d10ba0c30a2adf4i0",
-        "rarityscore": "418",
-        "rank": "350",
-        "name": "DoginalCowz #252"
+        "rarityscore": 495,
+        "name": "Doginal Cowz #252",
+        "rank": 356
     },
     {
         "inscriptionid": "e1bf23e6247b23478dcd4363c4122ce4ada9db3c3cf08be3de8c83eea1071c29i0",
-        "rarityscore": "445",
-        "rank": "394",
-        "name": "DoginalCowz #253"
+        "rarityscore": 530,
+        "name": "Doginal Cowz #253",
+        "rank": 403
     },
     {
         "inscriptionid": "17439747f251d78f1c1622939757ad6542c6ef85e0e85c28a900621f8d1e5c62i0",
-        "rarityscore": "405",
-        "rank": "327",
-        "name": "DoginalCowz #254"
+        "rarityscore": 478,
+        "name": "Doginal Cowz #254",
+        "rank": 323
     },
     {
         "inscriptionid": "f8f642e1bd6e4c3cb9f79c449f7a9b48419852375aef01f6c0d21a45eeafbb7ei0",
-        "rarityscore": "373",
-        "rank": "242",
-        "name": "DoginalCowz #255"
+        "rarityscore": 443,
+        "name": "Doginal Cowz #255",
+        "rank": 246
     },
     {
         "inscriptionid": "8b8cd0e97875ec3f4ae3aa2834d69b977547c152d2a0c082e6c49dd82d0da2b6i0",
-        "rarityscore": "366",
-        "rank": "212",
-        "name": "DoginalCowz #256"
+        "rarityscore": 430,
+        "name": "Doginal Cowz #256",
+        "rank": 202
     },
     {
         "inscriptionid": "86cd7d401632f474d9077364f8ff9238e28620f54d6f35503fcba68c5d13df18i0",
-        "rarityscore": "362",
-        "rank": "195",
-        "name": "DoginalCowz #257"
+        "rarityscore": 432,
+        "name": "Doginal Cowz #257",
+        "rank": 211
     },
     {
         "inscriptionid": "8696d95c56bcb64d820b9961abe5dc05ef52401b768b033f8fc93137249463a9i0",
-        "rarityscore": "443",
-        "rank": "392",
-        "name": "DoginalCowz #258"
+        "rarityscore": 515,
+        "name": "Doginal Cowz #258",
+        "rank": 386
     },
     {
         "inscriptionid": "711f3de0addc4d0db3285850d8790399a821c5be9836292e65ebcafeabe05099i0",
-        "rarityscore": "441",
-        "rank": "390",
-        "name": "DoginalCowz #259"
+        "rarityscore": 525,
+        "name": "Doginal Cowz #259",
+        "rank": 394
     },
     {
         "inscriptionid": "d5e1d5cc87a863fc775b7214823af97ec81940769620234c9d7ad9f911f118f0i0",
-        "rarityscore": "451",
-        "rank": "397",
-        "name": "DoginalCowz #260"
+        "rarityscore": 531,
+        "name": "Doginal Cowz #260",
+        "rank": 405
     },
     {
         "inscriptionid": "993c0a43075555525e556ee2bd1506fc21dc1d2b54cc1f46d483ce8a1fe6e3f6i0",
-        "rarityscore": "358",
-        "rank": "186",
-        "name": "DoginalCowz #261"
+        "rarityscore": 428,
+        "name": "Doginal Cowz #261",
+        "rank": 191
     },
     {
         "inscriptionid": "b48b6d0b32f1026ecaba07e3b9ebfc7912ec24e9e0744bf5118d36f2e7efc4fbi0",
-        "rarityscore": "377",
-        "rank": "256",
-        "name": "DoginalCowz #262"
+        "rarityscore": 445,
+        "name": "Doginal Cowz #262",
+        "rank": 254
     },
     {
         "inscriptionid": "0bcaee30d314e2524ec06e444a9b2b9509197a425d148b051db5aab318bddd1ci0",
-        "rarityscore": "455",
-        "rank": "405",
-        "name": "DoginalCowz #263"
+        "rarityscore": 535,
+        "name": "Doginal Cowz #263",
+        "rank": 410
     },
     {
         "inscriptionid": "82df1c7f6b735c01ab3546785338f00b0c096e5146f2ee115ac1f84633123094i0",
-        "rarityscore": "408",
-        "rank": "333",
-        "name": "DoginalCowz #264"
+        "rarityscore": 487,
+        "name": "Doginal Cowz #264",
+        "rank": 344
     },
     {
         "inscriptionid": "b7b8b113cb20de0a1aa0427f809874de7faecba6543104d6377face64a76326ei0",
-        "rarityscore": "354",
-        "rank": "170",
-        "name": "DoginalCowz #265"
+        "rarityscore": 435,
+        "name": "Doginal Cowz #265",
+        "rank": 220
     },
     {
         "inscriptionid": "65f4ac1c1ea3b9c3d903df4664fdab3bcb728c74f7d28c48b388b105cac832c4i0",
-        "rarityscore": "456",
-        "rank": "407",
-        "name": "DoginalCowz #266"
+        "rarityscore": 528,
+        "name": "Doginal Cowz #266",
+        "rank": 397
     },
     {
         "inscriptionid": "0294f4b221a53556fc65e9a955509d27ceac5bceb2627a22de066a4aba51f332i0",
-        "rarityscore": "432",
-        "rank": "378",
-        "name": "DoginalCowz #267"
+        "rarityscore": 506,
+        "name": "Doginal Cowz #267",
+        "rank": 374
     },
     {
         "inscriptionid": "d52bd6743d1cb523b1f63a67f9786109954f26d54d059f22df0dfbcc5a5a89b6i0",
-        "rarityscore": "495",
-        "rank": "419",
-        "name": "DoginalCowz #268"
+        "rarityscore": 575,
+        "name": "Doginal Cowz #268",
+        "rank": 419
     },
     {
         "inscriptionid": "33629335f06bb29a8755cd77762d55e25975d503fd4569e59815e41ebbfa1c49i0",
-        "rarityscore": "403",
-        "rank": "324",
-        "name": "DoginalCowz #269"
+        "rarityscore": 479,
+        "name": "Doginal Cowz #269",
+        "rank": 325
     },
     {
         "inscriptionid": "35bee28d4d8110ce7e11aaa592c3b3ebf8309ca5bbff6346ab24d85579ffa576i0",
-        "rarityscore": "425",
-        "rank": "366",
-        "name": "DoginalCowz #270"
+        "rarityscore": 497,
+        "name": "Doginal Cowz #270",
+        "rank": 361
     },
     {
         "inscriptionid": "159154de516e62622df83167de0b1cdaa7b3ce210a635031ad84675643cc78f8i0",
-        "rarityscore": "426",
-        "rank": "368",
-        "name": "DoginalCowz #271"
+        "rarityscore": 497,
+        "name": "Doginal Cowz #271",
+        "rank": 362
     },
     {
         "inscriptionid": "f6c265dcc0b9a083c38c186484254d95873e8b655541f9435a8a9a1aa21e4cf6i0",
-        "rarityscore": "410",
-        "rank": "339",
-        "name": "DoginalCowz #272"
+        "rarityscore": 483,
+        "name": "Doginal Cowz #272",
+        "rank": 335
     },
     {
         "inscriptionid": "a349b476347af19617c7687bb7c33ba537b0c95a9ec5da8be1b359a3c7dd466fi0",
-        "rarityscore": "433",
-        "rank": "379",
-        "name": "DoginalCowz #273"
+        "rarityscore": 512,
+        "name": "Doginal Cowz #273",
+        "rank": 384
     },
     {
         "inscriptionid": "b6d9933b95bc72aef3a1b5bdb127dd8784c095b24d75033dc7ab5b73f93c4337i0",
-        "rarityscore": "418",
-        "rank": "350",
-        "name": "DoginalCowz #274"
+        "rarityscore": 493,
+        "name": "Doginal Cowz #274",
+        "rank": 352
     },
     {
         "inscriptionid": "515873eda114908ee9ca34e83ee6531ae9f8803ab0a403ed2a74d6c3147f7e50i0",
-        "rarityscore": "396",
-        "rank": "314",
-        "name": "DoginalCowz #275"
+        "rarityscore": 479,
+        "name": "Doginal Cowz #275",
+        "rank": 326
     },
     {
         "inscriptionid": "a87a76b5e29b056581feb97480a5ca4fec4679cfc32c2e26284c45f4cbba8486i0",
-        "rarityscore": "389",
-        "rank": "295",
-        "name": "DoginalCowz #276"
+        "rarityscore": 462,
+        "name": "Doginal Cowz #276",
+        "rank": 304
     },
     {
         "inscriptionid": "208aba59d627765daeaebee778bbaaf01ccc5cad65b0fc68b2ea20b19460dc59i0",
-        "rarityscore": "419",
-        "rank": "354",
-        "name": "DoginalCowz #277"
+        "rarityscore": 492,
+        "name": "Doginal Cowz #277",
+        "rank": 350
     },
     {
         "inscriptionid": "28534a2da0e270bd7f5af1da9fafcabe5c337a973be178f497dc66d9d6a44f72i0",
-        "rarityscore": "439",
-        "rank": "387",
-        "name": "DoginalCowz #278"
+        "rarityscore": 515,
+        "name": "Doginal Cowz #278",
+        "rank": 387
     },
     {
         "inscriptionid": "4785db398ba53dc73b91fd943320538aa7f28091f9d594c67bc78cb646de7d89i0",
-        "rarityscore": "426",
-        "rank": "368",
-        "name": "DoginalCowz #279"
+        "rarityscore": 496,
+        "name": "Doginal Cowz #279",
+        "rank": 360
     },
     {
         "inscriptionid": "439bb26989468bc51439acd15b5678ca92bc4881660dee50c1540a47cef8f8b6i0",
-        "rarityscore": "390",
-        "rank": "298",
-        "name": "DoginalCowz #280"
+        "rarityscore": 465,
+        "name": "Doginal Cowz #280",
+        "rank": 307
     },
     {
         "inscriptionid": "a2478065acc1bcb6fb202db6247ac76a8075808e89bca55cf29a4cb8bc51c40ci0",
-        "rarityscore": "373",
-        "rank": "242",
-        "name": "DoginalCowz #281"
+        "rarityscore": 447,
+        "name": "Doginal Cowz #281",
+        "rank": 261
     },
     {
         "inscriptionid": "befb896eb58131078d5732e4ec57da9360797850bf0979d593335d9e71eb7685i0",
-        "rarityscore": "412",
-        "rank": "342",
-        "name": "DoginalCowz #282"
+        "rarityscore": 485,
+        "name": "Doginal Cowz #282",
+        "rank": 342
     },
     {
         "inscriptionid": "60246a5adb355c7989aa1a4362db9c5502941948a7eede53cce0e7bfca6a82ddi0",
-        "rarityscore": "427",
-        "rank": "370",
-        "name": "DoginalCowz #283"
+        "rarityscore": 500,
+        "name": "Doginal Cowz #283",
+        "rank": 365
     },
     {
         "inscriptionid": "918d5a163c9445215892bb7a1622a7d3f937239db41f8cd5099cf612de239ba5i0",
-        "rarityscore": "379",
-        "rank": "265",
-        "name": "DoginalCowz #284"
+        "rarityscore": 453,
+        "name": "Doginal Cowz #284",
+        "rank": 278
     },
     {
         "inscriptionid": "69dc1e7c25116ef5e8069f6608124780f053f9dc7fb228e54410d3960f40077ci0",
-        "rarityscore": "418",
-        "rank": "350",
-        "name": "DoginalCowz #285"
+        "rarityscore": 494,
+        "name": "Doginal Cowz #285",
+        "rank": 354
     },
     {
         "inscriptionid": "089956a8d8bfb2565d4c4c5cb793f16d6b23b4e1e2902c255d21966fb8fc5583i0",
-        "rarityscore": "471",
-        "rank": "416",
-        "name": "DoginalCowz #286"
+        "rarityscore": 547,
+        "name": "Doginal Cowz #286",
+        "rank": 416
     },
     {
         "inscriptionid": "583bd3c8ffe1325af374609e51c802dd26c96e9106fa2e6109393f3396cf9047i0",
-        "rarityscore": "378",
-        "rank": "261",
-        "name": "DoginalCowz #287"
+        "rarityscore": 458,
+        "name": "Doginal Cowz #287",
+        "rank": 294
     },
     {
         "inscriptionid": "7680d959b177ba89bb7a5f9365aa5c62cec6c273bf29a821c91ad3fd25d40bafi0",
-        "rarityscore": "322",
-        "rank": "63",
-        "name": "DoginalCowz #288"
+        "rarityscore": 392,
+        "name": "Doginal Cowz #288",
+        "rank": 73
     },
     {
         "inscriptionid": "3becca44e19a10a26b340fbed90e7e73327eb34606fa62b104fb3dce65614e28i0",
-        "rarityscore": "348",
-        "rank": "148",
-        "name": "DoginalCowz #289"
+        "rarityscore": 417,
+        "name": "Doginal Cowz #289",
+        "rank": 163
     },
     {
         "inscriptionid": "d4e1f25eeb0d405e1ffb3011f01474bd24a28d5480e4756a4a37f0c6b1459138i0",
-        "rarityscore": "392",
-        "rank": "305",
-        "name": "DoginalCowz #290"
+        "rarityscore": 476,
+        "name": "Doginal Cowz #290",
+        "rank": 321
     },
     {
         "inscriptionid": "0d6efa11d3a8ece26a5f87839b7f23ef84b9361b8cdfc7e182c9b914617f59efi0",
-        "rarityscore": "395",
-        "rank": "311",
-        "name": "DoginalCowz #291"
+        "rarityscore": 467,
+        "name": "Doginal Cowz #291",
+        "rank": 311
     },
     {
         "inscriptionid": "7cd53eeb1e24059b1916312921a81230717e0e2996e748634d5457ae3afef83bi0",
-        "rarityscore": "332",
-        "rank": "82",
-        "name": "DoginalCowz #292"
+        "rarityscore": 396,
+        "name": "Doginal Cowz #292",
+        "rank": 82
     },
     {
         "inscriptionid": "ed00e4e00e06b196f7fb24b912670535fc7421bab9a05663d80a59895628c31fi0",
-        "rarityscore": "361",
-        "rank": "193",
-        "name": "DoginalCowz #293"
+        "rarityscore": 440,
+        "name": "Doginal Cowz #293",
+        "rank": 237
     },
     {
         "inscriptionid": "7ef34898abc214558d6d0c6553634261ace70f624df758541701240f3667e5ebi0",
-        "rarityscore": "335",
-        "rank": "92",
-        "name": "DoginalCowz #294"
+        "rarityscore": 406,
+        "name": "Doginal Cowz #294",
+        "rank": 114
     },
     {
         "inscriptionid": "4c71b096109bc5830fde0cd8aff6b95a3bd2dbbd0c831fcf10abb1e2f5ca7b11i0",
-        "rarityscore": "444",
-        "rank": "393",
-        "name": "DoginalCowz #295"
+        "rarityscore": 529,
+        "name": "Doginal Cowz #295",
+        "rank": 401
     },
     {
         "inscriptionid": "d919e5b9b4c54f43a871598736f75523bfad142c6118c7773655220bb6202deci0",
-        "rarityscore": "453",
-        "rank": "402",
-        "name": "DoginalCowz #296"
+        "rarityscore": 533,
+        "name": "Doginal Cowz #296",
+        "rank": 407
     },
     {
         "inscriptionid": "f3e3bbd43b5f7ce160a48a4d427fff1ca0309164be154affe2cba19bb3ce14d8i0",
-        "rarityscore": "334",
-        "rank": "91",
-        "name": "DoginalCowz #297"
+        "rarityscore": 402,
+        "name": "Doginal Cowz #297",
+        "rank": 99
     },
     {
         "inscriptionid": "6c02070d6fcf867bf5849e3a05389f3a261e7169c635a8da5ee7c1fb0beea068i0",
-        "rarityscore": "430",
-        "rank": "374",
-        "name": "DoginalCowz #298"
+        "rarityscore": 510,
+        "name": "Doginal Cowz #298",
+        "rank": 382
     },
     {
         "inscriptionid": "a7d814afa166e5001e3f8c376dec325e193ce116d327124b5ed1c0ec71ed7ed5i0",
-        "rarityscore": "399",
-        "rank": "317",
-        "name": "DoginalCowz #299"
+        "rarityscore": 482,
+        "name": "Doginal Cowz #299",
+        "rank": 333
     },
     {
         "inscriptionid": "a667c00e6a97bc7c8424e86291b4f85d5c6d78dc2911dbaf3c8720ed7ab0ffc1i0",
-        "rarityscore": "367",
-        "rank": "221",
-        "name": "DoginalCowz #300"
+        "rarityscore": 447,
+        "name": "Doginal Cowz #300",
+        "rank": 262
     },
     {
         "inscriptionid": "10f05711af2169e92da545be4813941a94e3597f1417227b859ecf4699ce6ec3i0",
-        "rarityscore": "455",
-        "rank": "405",
-        "name": "DoginalCowz #301"
+        "rarityscore": 532,
+        "name": "Doginal Cowz #301",
+        "rank": 406
     },
     {
         "inscriptionid": "5980b3325bd817a96605222d1cf3b263d487e3a7fd1c69a543d623d4b100834ei0",
-        "rarityscore": "424",
-        "rank": "365",
-        "name": "DoginalCowz #302"
+        "rarityscore": 509,
+        "name": "Doginal Cowz #302",
+        "rank": 380
     },
     {
         "inscriptionid": "2463d6a13dab00d777c3c13209116c7babcf401a3d8e3036130d577ffc2b5c00i0",
-        "rarityscore": "362",
-        "rank": "195",
-        "name": "DoginalCowz #303"
+        "rarityscore": 444,
+        "name": "Doginal Cowz #303",
+        "rank": 249
     },
     {
         "inscriptionid": "ac51f9349b7a5c440bcbff390d88f24066acf5901c2887527150eb0cf97de9ebi0",
-        "rarityscore": "386",
-        "rank": "284",
-        "name": "DoginalCowz #304"
+        "rarityscore": 468,
+        "name": "Doginal Cowz #304",
+        "rank": 313
     },
     {
         "inscriptionid": "b139a5fdb71974e8963d685a64f4472a0fde5543427ca6bb008d45d9f48b9014i0",
-        "rarityscore": "410",
-        "rank": "339",
-        "name": "DoginalCowz #305"
+        "rarityscore": 480,
+        "name": "Doginal Cowz #305",
+        "rank": 329
     },
     {
         "inscriptionid": "3f07e3531c9d46794324100cb7eeef9361b3bcc463ba4e29609e8bd7ee59a7f2i0",
-        "rarityscore": "369",
-        "rank": "226",
-        "name": "DoginalCowz #306"
+        "rarityscore": 448,
+        "name": "Doginal Cowz #306",
+        "rank": 263
     },
     {
         "inscriptionid": "b528accecda4376ce451d4465e20491b87c8f0fb5e22333540946fd7dd379e84i0",
-        "rarityscore": "406",
-        "rank": "330",
-        "name": "DoginalCowz #307"
+        "rarityscore": 490,
+        "name": "Doginal Cowz #307",
+        "rank": 348
     },
     {
         "inscriptionid": "1e2a53cd58752115e765effa7e3b237efe91625360953f049a9866d786209756i0",
-        "rarityscore": "425",
-        "rank": "366",
-        "name": "DoginalCowz #308"
+        "rarityscore": 497,
+        "name": "Doginal Cowz #308",
+        "rank": 363
     },
     {
         "inscriptionid": "cb718ec2834a7f9a4cac3a279cb0d2ddb93abbe9e3d43dfc4c4e2e33e5a5a36fi0",
-        "rarityscore": "267",
-        "rank": "19",
-        "name": "DoginalCowz #309"
+        "rarityscore": 333,
+        "name": "Doginal Cowz #309",
+        "rank": 22
     },
     {
         "inscriptionid": "9c26ef0443fe804a8f414ace4762ebb2cf4bd96390fba6200706afb3d2a6ef49i0",
-        "rarityscore": "460",
-        "rank": "412",
-        "name": "DoginalCowz #310"
+        "rarityscore": 544,
+        "name": "Doginal Cowz #310",
+        "rank": 414
     },
     {
         "inscriptionid": "8d1151f4f19e77d070974b9b17d0cd85f896516dfbed852649bb482a1a859129i0",
-        "rarityscore": "345",
-        "rank": "133",
-        "name": "DoginalCowz #311"
+        "rarityscore": 424,
+        "name": "Doginal Cowz #311",
+        "rank": 178
     },
     {
         "inscriptionid": "0c48bed50b1717c5001c9f76c861c30cef61f5af2701920f2fd2dbfca9f464edi0",
-        "rarityscore": "423",
-        "rank": "361",
-        "name": "DoginalCowz #312"
+        "rarityscore": 509,
+        "name": "Doginal Cowz #312",
+        "rank": 381
     },
     {
         "inscriptionid": "e6e07eed95cdb6b74eac6b3a1d29a218c7316326cd3304b58c16902182aabdcei0",
-        "rarityscore": "380",
-        "rank": "269",
-        "name": "DoginalCowz #313"
+        "rarityscore": 460,
+        "name": "Doginal Cowz #313",
+        "rank": 297
     },
     {
         "inscriptionid": "a7cf7b069ee2e62ba9774e2265ce6c925b1ff4d530ebd835ad993da2e53f9d04i0",
-        "rarityscore": "333",
-        "rank": "88",
-        "name": "DoginalCowz #314"
+        "rarityscore": 405,
+        "name": "Doginal Cowz #314",
+        "rank": 111
     },
     {
         "inscriptionid": "e7846ff947523a448d312eb0558226edd4bcb8843a41702cb039373e81309efai0",
-        "rarityscore": "412",
-        "rank": "342",
-        "name": "DoginalCowz #315"
+        "rarityscore": 484,
+        "name": "Doginal Cowz #315",
+        "rank": 339
     },
     {
         "inscriptionid": "a68bbbbaf705a7dde69bcb2feda611f06f8b9e4c162b62cb77b4d8ea9932e9fdi0",
-        "rarityscore": "405",
-        "rank": "327",
-        "name": "DoginalCowz #316"
+        "rarityscore": 479,
+        "name": "Doginal Cowz #316",
+        "rank": 327
     },
     {
         "inscriptionid": "4b2072055c9f1b1d84445784a0d36ff1b3420afa64bb42afe70d6e1266ce108ei0",
-        "rarityscore": "437",
-        "rank": "383",
-        "name": "DoginalCowz #317"
+        "rarityscore": 517,
+        "name": "Doginal Cowz #317",
+        "rank": 388
     },
     {
         "inscriptionid": "e223602866204411aa180cc32675780541de1eefd8229457aec861b001301c9ai0",
-        "rarityscore": "401",
-        "rank": "322",
-        "name": "DoginalCowz #318"
+        "rarityscore": 487,
+        "name": "Doginal Cowz #318",
+        "rank": 345
     },
     {
         "inscriptionid": "34a3af0b8b470bd9e34ccf082ed20e6782b8996202e2ccbf785b815001fa08c0i0",
-        "rarityscore": "389",
-        "rank": "295",
-        "name": "DoginalCowz #319"
+        "rarityscore": 471,
+        "name": "Doginal Cowz #319",
+        "rank": 315
     },
     {
         "inscriptionid": "3d037c4fcdcdd4840059af4e74b7859696bff8db082e0c8834187dfdd01fca09i0",
-        "rarityscore": "375",
-        "rank": "251",
-        "name": "DoginalCowz #320"
+        "rarityscore": 449,
+        "name": "Doginal Cowz #320",
+        "rank": 269
     },
     {
         "inscriptionid": "7967f3c9973a7b5c712de6912380d70edfdf29e990fea91f2d386e72edc7b04fi0",
-        "rarityscore": "349",
-        "rank": "151",
-        "name": "DoginalCowz #321"
+        "rarityscore": 428,
+        "name": "Doginal Cowz #321",
+        "rank": 192
     },
     {
         "inscriptionid": "663c98f25787076c3f798d0b3f7f51543be63128b707340e8951c07ef773d9c3i0",
-        "rarityscore": "420",
-        "rank": "357",
-        "name": "DoginalCowz #322"
+        "rarityscore": 495,
+        "name": "Doginal Cowz #322",
+        "rank": 357
     },
     {
         "inscriptionid": "5f14f48344c2bf19e9e05412ccc16e3d284d050d77628da4572e4364f75dd290i0",
-        "rarityscore": "357",
-        "rank": "180",
-        "name": "DoginalCowz #323"
+        "rarityscore": 423,
+        "name": "Doginal Cowz #323",
+        "rank": 177
     },
     {
         "inscriptionid": "d5bf4a170a70367d8e2ebd490b4531e342b8d3ffd84d8e1791678ff770637575i0",
-        "rarityscore": "333",
-        "rank": "88",
-        "name": "DoginalCowz #324"
+        "rarityscore": 400,
+        "name": "Doginal Cowz #324",
+        "rank": 92
     },
     {
         "inscriptionid": "10f4e11cb3c36c55d7bb1bc593c9f30ee08aef095be5838325b070cbe5ccc6a4i0",
-        "rarityscore": "421",
-        "rank": "358",
-        "name": "DoginalCowz #325"
+        "rarityscore": 500,
+        "name": "Doginal Cowz #325",
+        "rank": 366
     },
     {
         "inscriptionid": "59d9bc7a93b5bd202b68fd93be8ab6a45173111f01f5a9fbe3b30329bdf084d3i0",
-        "rarityscore": "398",
-        "rank": "316",
-        "name": "DoginalCowz #326"
+        "rarityscore": 469,
+        "name": "Doginal Cowz #326",
+        "rank": 314
     },
     {
         "inscriptionid": "432297298346b5d88899c1d92354a787be11b36e3c218457cf9f61e26f52717di0",
-        "rarityscore": "421",
-        "rank": "358",
-        "name": "DoginalCowz #327"
+        "rarityscore": 493,
+        "name": "Doginal Cowz #327",
+        "rank": 353
     },
     {
         "inscriptionid": "52f595f3ccfa1fde3d8f980eb508f10276ecd4e1c8a62fd55f200f4caef8be5ci0",
-        "rarityscore": "389",
-        "rank": "295",
-        "name": "DoginalCowz #328"
+        "rarityscore": 457,
+        "name": "Doginal Cowz #328",
+        "rank": 293
     },
     {
         "inscriptionid": "f049d5d5c64ae6937059ea39599a92c2c0caac856585be200588b907dae75d5ei0",
-        "rarityscore": "384",
-        "rank": "281",
-        "name": "DoginalCowz #329"
+        "rarityscore": 453,
+        "name": "Doginal Cowz #329",
+        "rank": 279
     },
     {
         "inscriptionid": "35adb7db6a26e6d7c66a520899fa27059880e3c9228afd214f1ff1ee8ab766c5i0",
-        "rarityscore": "372",
-        "rank": "236",
-        "name": "DoginalCowz #330"
+        "rarityscore": 437,
+        "name": "Doginal Cowz #330",
+        "rank": 228
     },
     {
         "inscriptionid": "07cb75d6d9c5f216e28c2845966efc1c2df3cb26cc9d5e51e6b62ad57f7ea617i0",
-        "rarityscore": "440",
-        "rank": "388",
-        "name": "DoginalCowz #331"
+        "rarityscore": 520,
+        "name": "Doginal Cowz #331",
+        "rank": 391
     },
     {
         "inscriptionid": "a3427fe56b1081f3c184e7d327ad943e381de21c4be32496cd27c4cef7585181i0",
-        "rarityscore": "409",
-        "rank": "336",
-        "name": "DoginalCowz #332"
+        "rarityscore": 483,
+        "name": "Doginal Cowz #332",
+        "rank": 336
     },
     {
         "inscriptionid": "c8c705171c8347bb65f65565d2bc05067f196c78823c18c432b60f1dc2edc9d2i0",
-        "rarityscore": "433",
-        "rank": "379",
-        "name": "DoginalCowz #333"
+        "rarityscore": 517,
+        "name": "Doginal Cowz #333",
+        "rank": 389
     },
     {
         "inscriptionid": "be3667e445203083dae80b3316756b2f47097f305deb25fc095649f9ba149a0ci0",
-        "rarityscore": "373",
-        "rank": "242",
-        "name": "DoginalCowz #334"
+        "rarityscore": 438,
+        "name": "Doginal Cowz #334",
+        "rank": 232
     },
     {
         "inscriptionid": "4d40b0a96dccd1c4573d1fa77bd6d366c11a11186fa1cfecc9e14a8b56669255i0",
-        "rarityscore": "413",
-        "rank": "346",
-        "name": "DoginalCowz #335"
+        "rarityscore": 485,
+        "name": "Doginal Cowz #335",
+        "rank": 343
     },
     {
         "inscriptionid": "da57fd6e8e6dfabd47fd6335d4d5e08bc48ac14d49d37114a7a518c6d7b8858ci0",
-        "rarityscore": "437",
-        "rank": "383",
-        "name": "DoginalCowz #336"
+        "rarityscore": 508,
+        "name": "Doginal Cowz #336",
+        "rank": 378
     },
     {
         "inscriptionid": "7af325d57226d77fb92a172f02203bc2f32c2518357c709daaa703cbbe0ccc73i0",
-        "rarityscore": "382",
-        "rank": "275",
-        "name": "DoginalCowz #337"
+        "rarityscore": 461,
+        "name": "Doginal Cowz #337",
+        "rank": 303
     },
     {
         "inscriptionid": "a82698d67216bbd29b96cb4089fb1195b193fa90eeeb3d5f1d692b84f18f49dci0",
-        "rarityscore": "413",
-        "rank": "346",
-        "name": "DoginalCowz #338"
+        "rarityscore": 488,
+        "name": "Doginal Cowz #338",
+        "rank": 347
     },
     {
         "inscriptionid": "c8241505b6c0fa12d75b8a17260337336ac3b06880d7f24619d9db22e87d8df2i0",
-        "rarityscore": "375",
-        "rank": "251",
-        "name": "DoginalCowz #339"
+        "rarityscore": 458,
+        "name": "Doginal Cowz #339",
+        "rank": 295
     },
     {
         "inscriptionid": "bddc46c86366f15a571270ea0e950a75d2f3cfd2b47c2a7e1676abac042486d3i0",
-        "rarityscore": "452",
-        "rank": "399",
-        "name": "DoginalCowz #340"
+        "rarityscore": 529,
+        "name": "Doginal Cowz #340",
+        "rank": 402
     },
     {
         "inscriptionid": "99dd274af7eb0aaa215ffee5d3aa8ae43468a5c8143fbf8ec95a98065ab4cfcbi0",
-        "rarityscore": "399",
-        "rank": "317",
-        "name": "DoginalCowz #341"
+        "rarityscore": 475,
+        "name": "Doginal Cowz #341",
+        "rank": 319
     },
     {
         "inscriptionid": "d8c8e57b2dfd43af3da0e4d515ae6c09a115d108bced6b332217d200b7887aeci0",
-        "rarityscore": "409",
-        "rank": "336",
-        "name": "DoginalCowz #342"
+        "rarityscore": 484,
+        "name": "Doginal Cowz #342",
+        "rank": 340
     },
     {
         "inscriptionid": "f27209cfe16684a64688f663e6635a44d685ef7e4c643b67ae911bd87c63774fi0",
-        "rarityscore": "440",
-        "rank": "388",
-        "name": "DoginalCowz #343"
+        "rarityscore": 511,
+        "name": "Doginal Cowz #343",
+        "rank": 383
     },
     {
         "inscriptionid": "f85f1eca160acd5905006de8b191983419f6cf5ac8e1b65420cda78d35b8f3cdi0",
-        "rarityscore": "340",
-        "rank": "114",
-        "name": "DoginalCowz #344"
+        "rarityscore": 422,
+        "name": "Doginal Cowz #344",
+        "rank": 174
     },
     {
         "inscriptionid": "e029fbcf37a2e588d8046bcb6771dc9fe52d413772f456e3037f12611f3d2be7i0",
-        "rarityscore": "327",
-        "rank": "70",
-        "name": "DoginalCowz #345"
+        "rarityscore": 404,
+        "name": "Doginal Cowz #345",
+        "rank": 107
     },
     {
         "inscriptionid": "1de6966458c26ca6da2e755550f4710b03126f1341b431f4af28ac574c3497f2i0",
-        "rarityscore": "377",
-        "rank": "256",
-        "name": "DoginalCowz #346"
+        "rarityscore": 451,
+        "name": "Doginal Cowz #346",
+        "rank": 272
     },
     {
         "inscriptionid": "aacc0112075764efb183ec7446bf6d48be44f197eee481c2d2f6cf4ab6201666i0",
-        "rarityscore": "353",
-        "rank": "168",
-        "name": "DoginalCowz #347"
+        "rarityscore": 415,
+        "name": "Doginal Cowz #347",
+        "rank": 158
     },
     {
         "inscriptionid": "a3635987121c688b6a58573e36fa3c8307a3ca3030a4937cda86bcf274858749i0",
-        "rarityscore": "315",
-        "rank": "57",
-        "name": "DoginalCowz #348"
+        "rarityscore": 380,
+        "name": "Doginal Cowz #348",
+        "rank": 56
     },
     {
         "inscriptionid": "e431c469d10f9a211d908dc663be26c9f041cfa23fe9b308b85e5fddbdc0f8c4i0",
-        "rarityscore": "294",
-        "rank": "40",
-        "name": "DoginalCowz #349"
+        "rarityscore": 350,
+        "name": "Doginal Cowz #349",
+        "rank": 33
     },
     {
         "inscriptionid": "0e1fa65a92f0f3b7aea39a952943c0ccb4301dac87ec2edd056efd248297fa44i0",
-        "rarityscore": "291",
-        "rank": "36",
-        "name": "DoginalCowz #350"
+        "rarityscore": 348,
+        "name": "Doginal Cowz #350",
+        "rank": 29
     },
     {
         "inscriptionid": "964b3e148c6ec5dc16bc90dba60ab9dd597b167b7f239ea69a82123800528c6ei0",
-        "rarityscore": "369",
-        "rank": "226",
-        "name": "DoginalCowz #351"
+        "rarityscore": 431,
+        "name": "Doginal Cowz #351",
+        "rank": 204
     },
     {
         "inscriptionid": "3b36d97588276b2377505d6d5548ec46f4fdfc848cee1f1250d25b75648157d1i0",
-        "rarityscore": "386",
-        "rank": "284",
-        "name": "DoginalCowz #352"
+        "rarityscore": 450,
+        "name": "Doginal Cowz #352",
+        "rank": 270
     },
     {
         "inscriptionid": "c279d744c68bd7652c71abc81dfba8ea522d5cb2a37fd3f4324208a58f9a42eai0",
-        "rarityscore": "337",
-        "rank": "103",
-        "name": "DoginalCowz #353"
+        "rarityscore": 407,
+        "name": "Doginal Cowz #353",
+        "rank": 122
     },
     {
         "inscriptionid": "fd172a835b41dd3050b164dd2ddee79ecf207343bf838722cc812675634c9d42i0",
-        "rarityscore": "359",
-        "rank": "188",
-        "name": "DoginalCowz #354"
+        "rarityscore": 424,
+        "name": "Doginal Cowz #354",
+        "rank": 179
     },
     {
         "inscriptionid": "fb88eaf09e5b686b26ecc2205d475e978b6471b47b61f3e9be57719e8f5037b8i0",
-        "rarityscore": "370",
-        "rank": "231",
-        "name": "DoginalCowz #355"
+        "rarityscore": 443,
+        "name": "Doginal Cowz #355",
+        "rank": 247
     },
     {
         "inscriptionid": "ef1cd0a6cc9b28851b584bcb33a04d617d88febf7cd438182ce61c96b071eeb5i0",
-        "rarityscore": "331",
-        "rank": "79",
-        "name": "DoginalCowz #356"
+        "rarityscore": 398,
+        "name": "Doginal Cowz #356",
+        "rank": 88
     },
     {
         "inscriptionid": "de219c652e746ecc9ff9d364111f1f4e0421801b530cd0cb82990b41dff9f905i0",
-        "rarityscore": "316",
-        "rank": "58",
-        "name": "DoginalCowz #357"
+        "rarityscore": 380,
+        "name": "Doginal Cowz #357",
+        "rank": 57
     },
     {
         "inscriptionid": "66584e7e637869446a3eff6572d6427fea938547cb94b6107ce920dce6f2cc42i0",
-        "rarityscore": "281",
-        "rank": "26",
-        "name": "DoginalCowz #358"
+        "rarityscore": 353,
+        "name": "Doginal Cowz #358",
+        "rank": 37
     },
     {
         "inscriptionid": "db8acd09b3e8346dae448e98a586e7e0fdc03b3601da6c1dda8205834157dcffi0",
-        "rarityscore": "335",
-        "rank": "92",
-        "name": "DoginalCowz #359"
+        "rarityscore": 403,
+        "name": "Doginal Cowz #359",
+        "rank": 102
     },
     {
         "inscriptionid": "da93fa61ef5df19ce887597d8013b13a000018fcc49df467b59d5cbd13724a33i0",
-        "rarityscore": "366",
-        "rank": "212",
-        "name": "DoginalCowz #360"
+        "rarityscore": 433,
+        "name": "Doginal Cowz #360",
+        "rank": 214
     },
     {
         "inscriptionid": "8a73509dcb09970f0773821ca4bbd5ac06980d62674e09074bf3b298545469afi0",
-        "rarityscore": "364",
-        "rank": "204",
-        "name": "DoginalCowz #361"
+        "rarityscore": 437,
+        "name": "Doginal Cowz #361",
+        "rank": 229
     },
     {
         "inscriptionid": "6561d7ae48bb968b2ba675fcc70c355b397040ddc75c53e233a4da23f6119726i0",
-        "rarityscore": "294",
-        "rank": "40",
-        "name": "DoginalCowz #362"
+        "rarityscore": 366,
+        "name": "Doginal Cowz #362",
+        "rank": 47
     },
     {
         "inscriptionid": "06d288608e1839fc2a03fbde2c35d240b9a31b7e2d871b5adf25d54b1e943dc2i0",
-        "rarityscore": "335",
-        "rank": "92",
-        "name": "DoginalCowz #363"
+        "rarityscore": 405,
+        "name": "Doginal Cowz #363",
+        "rank": 112
     },
     {
         "inscriptionid": "1bc346e199513d64ea99f0e6a680927d730b410b4e3d1f9e111b4eaeeb717243i0",
-        "rarityscore": "336",
-        "rank": "98",
-        "name": "DoginalCowz #364"
+        "rarityscore": 414,
+        "name": "Doginal Cowz #364",
+        "rank": 150
     },
     {
         "inscriptionid": "9ad514fc62096fff1e74abbe9a15adda0516a279f81606d647fcbb24c60050cei0",
-        "rarityscore": "356",
-        "rank": "177",
-        "name": "DoginalCowz #365"
+        "rarityscore": 425,
+        "name": "Doginal Cowz #365",
+        "rank": 183
     },
     {
         "inscriptionid": "4dd0f8cde84cb30b56909eb7705d302543a587961e9f000b21fe3a45405997dbi0",
-        "rarityscore": "393",
-        "rank": "307",
-        "name": "DoginalCowz #366"
+        "rarityscore": 460,
+        "name": "Doginal Cowz #366",
+        "rank": 298
     },
     {
         "inscriptionid": "182e6b42b29e880d40bd1201eaaa2b725ad1d8b196b9c9b30001d7e0962e31f8i0",
-        "rarityscore": "277",
-        "rank": "24",
-        "name": "DoginalCowz #367"
+        "rarityscore": 341,
+        "name": "Doginal Cowz #367",
+        "rank": 25
     },
     {
         "inscriptionid": "7afb4260367f18f96432647527ee41104a3f491e391109abf8e2decc33b68c3fi0",
-        "rarityscore": "378",
-        "rank": "261",
-        "name": "DoginalCowz #368"
+        "rarityscore": 444,
+        "name": "Doginal Cowz #368",
+        "rank": 250
     },
     {
         "inscriptionid": "44e955b9883533af78d5bebf6f106759d38700f65c05c2a4993328b072fd1d39i0",
-        "rarityscore": "347",
-        "rank": "143",
-        "name": "DoginalCowz #369"
+        "rarityscore": 414,
+        "name": "Doginal Cowz #369",
+        "rank": 151
     },
     {
         "inscriptionid": "ab7ac33cbe27de5651bfb6ad3a3d3ea62508e427067dc3bc2c7ee45a42bd3fb4i0",
-        "rarityscore": "374",
-        "rank": "248",
-        "name": "DoginalCowz #370"
+        "rarityscore": 451,
+        "name": "Doginal Cowz #370",
+        "rank": 273
     },
     {
         "inscriptionid": "c76769e211a97200a9dfd0eefceb15563e05614339ae65d17812c3754fab33dbi0",
-        "rarityscore": "363",
-        "rank": "197",
-        "name": "DoginalCowz #371"
+        "rarityscore": 441,
+        "name": "Doginal Cowz #371",
+        "rank": 240
     },
     {
         "inscriptionid": "55ff2ef0fad51d0217ede5094b48f26295aa04beb05bf78124196e3750db0db5i0",
-        "rarityscore": "363",
-        "rank": "197",
-        "name": "DoginalCowz #372"
+        "rarityscore": 436,
+        "name": "Doginal Cowz #372",
+        "rank": 222
     },
     {
         "inscriptionid": "b2b5aa8bd91b08e669e918f20d7a8cf11a0a4a901dd78f5f14c6f55284e727afi0",
-        "rarityscore": "344",
-        "rank": "128",
-        "name": "DoginalCowz #373"
+        "rarityscore": 407,
+        "name": "Doginal Cowz #373",
+        "rank": 123
     },
     {
         "inscriptionid": "e3c77ee4250fa8a81286f84157d5310f409f5ea0a13b72c2e96e677ca3333cfci0",
-        "rarityscore": "320",
-        "rank": "61",
-        "name": "DoginalCowz #374"
+        "rarityscore": 384,
+        "name": "Doginal Cowz #374",
+        "rank": 61
     },
     {
         "inscriptionid": "68e3814986255088f712ec267389d23363e7057649dcfb980c1552d838d1f217i0",
-        "rarityscore": "369",
-        "rank": "226",
-        "name": "DoginalCowz #375"
+        "rarityscore": 440,
+        "name": "Doginal Cowz #375",
+        "rank": 238
     },
     {
         "inscriptionid": "9a244327cb39faf275d1272a087e22045518f480f5fc2006ce58f8741c5683b5i0",
-        "rarityscore": "327",
-        "rank": "70",
-        "name": "DoginalCowz #376"
+        "rarityscore": 396,
+        "name": "Doginal Cowz #376",
+        "rank": 83
     },
     {
         "inscriptionid": "fb9f59a39c854aef208126f5aa38d922c46ae550e53c48eeda8f25e292af6bf4i0",
-        "rarityscore": "409",
-        "rank": "336",
-        "name": "DoginalCowz #377"
+        "rarityscore": 478,
+        "name": "Doginal Cowz #377",
+        "rank": 324
     },
     {
         "inscriptionid": "155c7557466f2b45419d023efc8310bbd102057dfad2948fbbac399acba482e6i0",
-        "rarityscore": "339",
-        "rank": "107",
-        "name": "DoginalCowz #378"
+        "rarityscore": 417,
+        "name": "Doginal Cowz #378",
+        "rank": 164
     },
     {
         "inscriptionid": "1625c3d792528ce2d7959a06a79c191945c0fb46c058fdcd41194045fa86ea22i0",
-        "rarityscore": "340",
-        "rank": "114",
-        "name": "DoginalCowz #379"
+        "rarityscore": 406,
+        "name": "Doginal Cowz #379",
+        "rank": 115
     },
     {
         "inscriptionid": "3242079208513b5edf1bd14ac15ec2092bd098599ec04fd0aacf269580b302cei0",
-        "rarityscore": "327",
-        "rank": "70",
-        "name": "DoginalCowz #380"
+        "rarityscore": 392,
+        "name": "Doginal Cowz #380",
+        "rank": 74
     },
     {
         "inscriptionid": "7129fc7ba2d6a115bb49f98f817d0ed6b8b8599429cb137956d37d56f23236c8i0",
-        "rarityscore": "349",
-        "rank": "151",
-        "name": "DoginalCowz #381"
+        "rarityscore": 414,
+        "name": "Doginal Cowz #381",
+        "rank": 152
     },
     {
         "inscriptionid": "dc0b7c59e668468244c815d5671f46f2c45e5f494aee7134bde93e46a7749050i0",
-        "rarityscore": "322",
-        "rank": "63",
-        "name": "DoginalCowz #382"
+        "rarityscore": 394,
+        "name": "Doginal Cowz #382",
+        "rank": 78
     },
     {
         "inscriptionid": "6df38adf32379192e8fb33a470238b1265042db00f437705c070205324077c8bi0",
-        "rarityscore": "372",
-        "rank": "236",
-        "name": "DoginalCowz #383"
+        "rarityscore": 439,
+        "name": "Doginal Cowz #383",
+        "rank": 235
     },
     {
         "inscriptionid": "d00829ea87d730cb41f7f18396017bd2f42c351a2ff2cd6481713a2c82f7c275i0",
-        "rarityscore": "373",
-        "rank": "242",
-        "name": "DoginalCowz #384"
+        "rarityscore": 438,
+        "name": "Doginal Cowz #384",
+        "rank": 233
     },
     {
         "inscriptionid": "2167f0af8b3c9c5b4c7568394f43a885f3574c27f41f2388e23bf8ccbc17e5c9i0",
-        "rarityscore": "352",
-        "rank": "166",
-        "name": "DoginalCowz #385"
+        "rarityscore": 421,
+        "name": "Doginal Cowz #385",
+        "rank": 173
     },
     {
         "inscriptionid": "b62df25ff9f34d14598a8fde02d13278449dfdcd18340c8524a9e888c7d132c9i0",
-        "rarityscore": "388",
-        "rank": "292",
-        "name": "DoginalCowz #386"
+        "rarityscore": 455,
+        "name": "Doginal Cowz #386",
+        "rank": 288
     },
     {
         "inscriptionid": "3e970456aeabc7e17273eb6bf42bc080ba32cf321e7b6c4e90a1671429262c3di0",
-        "rarityscore": "288",
-        "rank": "32",
-        "name": "DoginalCowz #387"
+        "rarityscore": 354,
+        "name": "Doginal Cowz #387",
+        "rank": 39
     },
     {
         "inscriptionid": "9a174651f8f8589bea140a713cf2c4f22ed25064eedf863b4ab10c7865186fc2i0",
-        "rarityscore": "350",
-        "rank": "160",
-        "name": "DoginalCowz #388"
+        "rarityscore": 418,
+        "name": "Doginal Cowz #388",
+        "rank": 166
     },
     {
         "inscriptionid": "aa19635c669a8e4e1db654c124561d0a8ae5f77cd82b5939ff25af7d2d9129fei0",
-        "rarityscore": "343",
-        "rank": "123",
-        "name": "DoginalCowz #389"
+        "rarityscore": 410,
+        "name": "Doginal Cowz #389",
+        "rank": 136
     },
     {
         "inscriptionid": "2043d7d2f9310b6ca39444b024c222f45a6e99bea18e481b0817fce27e47d9fci0",
-        "rarityscore": "364",
-        "rank": "204",
-        "name": "DoginalCowz #390"
+        "rarityscore": 436,
+        "name": "Doginal Cowz #390",
+        "rank": 223
     },
     {
         "inscriptionid": "552a40423617c22e625f89f7d4ba3e50083e99a53c7c7f1514ea512021baac1ai0",
-        "rarityscore": "379",
-        "rank": "265",
-        "name": "DoginalCowz #391"
+        "rarityscore": 453,
+        "name": "Doginal Cowz #391",
+        "rank": 280
     },
     {
         "inscriptionid": "f8c858cd40c10fc43aaace3565b86f7b99c61f52781aa708e2eecec30840cef9i0",
-        "rarityscore": "416",
-        "rank": "349",
-        "name": "DoginalCowz #392"
+        "rarityscore": 492,
+        "name": "Doginal Cowz #392",
+        "rank": 351
     },
     {
         "inscriptionid": "8fa15518a9a965499bf44cc714fc4ef1d14d3549c71aefb1a74a70c0e07fd174i0",
-        "rarityscore": "325",
-        "rank": "68",
-        "name": "DoginalCowz #393"
+        "rarityscore": 394,
+        "name": "Doginal Cowz #393",
+        "rank": 79
     },
     {
         "inscriptionid": "673820ff674619e2de89a254534614900b64d5c0e043ab641b91e91f62661f8ei0",
-        "rarityscore": "408",
-        "rank": "333",
-        "name": "DoginalCowz #394"
+        "rarityscore": 483,
+        "name": "Doginal Cowz #394",
+        "rank": 337
     },
     {
         "inscriptionid": "8de3e5f83ad4c9d363595fed79f5985f74a69f1d7bee17f2bd2dfd26f317e3fai0",
-        "rarityscore": "452",
-        "rank": "399",
-        "name": "DoginalCowz #395"
+        "rarityscore": 528,
+        "name": "Doginal Cowz #395",
+        "rank": 398
     },
     {
         "inscriptionid": "6841aa2246aa0780b549f07222874b63e040eb679e2f2423e1502e6a4be207c6i0",
-        "rarityscore": "423",
-        "rank": "361",
-        "name": "DoginalCowz #396"
+        "rarityscore": 497,
+        "name": "Doginal Cowz #396",
+        "rank": 364
     },
     {
         "inscriptionid": "625c74511ab547d1485c3eb8af1e92ed1faaf2ad4a5d4c54d844d9a7f3c0e5bei0",
-        "rarityscore": "423",
-        "rank": "361",
-        "name": "DoginalCowz #397"
+        "rarityscore": 500,
+        "name": "Doginal Cowz #397",
+        "rank": 367
     },
     {
         "inscriptionid": "0066b1f237ecc23cde564ee159c5ea04795824b0cb0dd5e67acd3e232faf337ai0",
-        "rarityscore": "468",
-        "rank": "415",
-        "name": "DoginalCowz #398"
+        "rarityscore": 546,
+        "name": "Doginal Cowz #398",
+        "rank": 415
     },
     {
         "inscriptionid": "0b580a35706671d977dfd0939d1fe74989f3d37b02cca3e3d06e918f47baa094i0",
-        "rarityscore": "423",
-        "rank": "361",
-        "name": "DoginalCowz #399"
+        "rarityscore": 501,
+        "name": "Doginal Cowz #399",
+        "rank": 368
     },
     {
         "inscriptionid": "e9bb0e6d761ea40e8d46bf0e0dcd6c81927fe615fcf5495673edc35350888c54i0",
-        "rarityscore": "380",
-        "rank": "269",
-        "name": "DoginalCowz #400"
+        "rarityscore": 454,
+        "name": "Doginal Cowz #400",
+        "rank": 281
     },
     {
         "inscriptionid": "af384d793afc68dd9a3e2f507e6c863292c97606eaf1950427aaa90b383e59b8i0",
-        "rarityscore": "357",
-        "rank": "180",
-        "name": "DoginalCowz #401"
+        "rarityscore": 431,
+        "name": "Doginal Cowz #401",
+        "rank": 205
     },
     {
         "inscriptionid": "e668b23b3b887be496867419224d8f5fe3d1f1406085edeb65992323911dd810i0",
-        "rarityscore": "407",
-        "rank": "332",
-        "name": "DoginalCowz #402"
+        "rarityscore": 481,
+        "name": "Doginal Cowz #402",
+        "rank": 331
     },
     {
         "inscriptionid": "821d6ab69c62839f166bc60c2a5857203c225e47febffa3be8b15b05d5f8faf3i0",
-        "rarityscore": "379",
-        "rank": "265",
-        "name": "DoginalCowz #403"
+        "rarityscore": 454,
+        "name": "Doginal Cowz #403",
+        "rank": 282
     },
     {
         "inscriptionid": "3eb1ffc4b30ffa327c3d6f2155273629872c139e6e9b303075c833852fbdf37di0",
-        "rarityscore": "374",
-        "rank": "248",
-        "name": "DoginalCowz #404"
+        "rarityscore": 444,
+        "name": "Doginal Cowz #404",
+        "rank": 251
     },
     {
         "inscriptionid": "24b81c8b5f98013dbffafe9e58034cee09c93a82ad71b7ecc140b55cabce8954i0",
-        "rarityscore": "422",
-        "rank": "360",
-        "name": "DoginalCowz #405"
+        "rarityscore": 495,
+        "name": "Doginal Cowz #405",
+        "rank": 358
     },
     {
         "inscriptionid": "7f58356378d30a52fd8f9add992728b1f4e6fd886d542af4a9864d313058b870i0",
-        "rarityscore": "451",
-        "rank": "397",
-        "name": "DoginalCowz #406"
+        "rarityscore": 528,
+        "name": "Doginal Cowz #406",
+        "rank": 399
     },
     {
         "inscriptionid": "2be297e8207cba981010d73dd025d86d1fd3af9eff211f0f9a9c5eee63227c4ci0",
-        "rarityscore": "442",
-        "rank": "391",
-        "name": "DoginalCowz #407"
+        "rarityscore": 517,
+        "name": "Doginal Cowz #407",
+        "rank": 390
     },
     {
         "inscriptionid": "b64e6fad00e47ba1a3d5600056481876ec356f685ec9d75a0cfd2dfb02bc2636i0",
-        "rarityscore": "419",
-        "rank": "354",
-        "name": "DoginalCowz #408"
+        "rarityscore": 494,
+        "name": "Doginal Cowz #408",
+        "rank": 355
     },
     {
         "inscriptionid": "90f2440ac69dbda55112579128ef66e2be52bf90fe0328da3caf0debcd9535fei0",
-        "rarityscore": "384",
-        "rank": "281",
-        "name": "DoginalCowz #409"
+        "rarityscore": 460,
+        "name": "Doginal Cowz #409",
+        "rank": 299
     },
     {
         "inscriptionid": "85eb549c8caeda89e30ac0995ec6fd9513cc643cc1fe732217d1c4d97025e143i0",
-        "rarityscore": "452",
-        "rank": "399",
-        "name": "DoginalCowz #410"
+        "rarityscore": 526,
+        "name": "Doginal Cowz #410",
+        "rank": 395
     },
     {
         "inscriptionid": "1b8485cc78df5d304f7f2737dedab16c26144b62635011faa28bdc0af657ee0bi0",
-        "rarityscore": "415",
-        "rank": "348",
-        "name": "DoginalCowz #411"
+        "rarityscore": 490,
+        "name": "Doginal Cowz #411",
+        "rank": 349
     },
     {
         "inscriptionid": "948a3598dc3b0f0d0fd3959a708445fc9052758fb6d484d48a0907dadd9a20f4i0",
-        "rarityscore": "462",
-        "rank": "413",
-        "name": "DoginalCowz #412"
+        "rarityscore": 538,
+        "name": "Doginal Cowz #412",
+        "rank": 412
     },
     {
         "inscriptionid": "e77f1454f1b95f769d65162748b9db060dd8da388009e70521a8940e98d434ebi0",
-        "rarityscore": "474",
-        "rank": "417",
-        "name": "DoginalCowz #413"
+        "rarityscore": 552,
+        "name": "Doginal Cowz #413",
+        "rank": 417
     },
     {
         "inscriptionid": "6a33c36749c607f0772883ea6e73602372cfd8fb4088c583c12036302852db80i0",
-        "rarityscore": "446",
-        "rank": "395",
-        "name": "DoginalCowz #414"
+        "rarityscore": 524,
+        "name": "Doginal Cowz #414",
+        "rank": 392
     },
     {
         "inscriptionid": "0a02ed3ab23355e565aa1d43e63e7c176bd9e588b2a0545350f08b6a4e3f90dai0",
-        "rarityscore": "478",
-        "rank": "418",
-        "name": "DoginalCowz #415"
+        "rarityscore": 555,
+        "name": "Doginal Cowz #415",
+        "rank": 418
     },
     {
         "inscriptionid": "4472770fb2d1f5a2e46b69e70b81f5855f49d604bc2f286161db83c6201a1e10i0",
-        "rarityscore": "390",
-        "rank": "298",
-        "name": "DoginalCowz #416"
+        "rarityscore": 465,
+        "name": "Doginal Cowz #416",
+        "rank": 308
     },
     {
         "inscriptionid": "97edbc0453a3cd7ac652e366a36d575076792700e7e56f7d7a2d45a30fb69c48i0",
-        "rarityscore": "387",
-        "rank": "290",
-        "name": "DoginalCowz #417"
+        "rarityscore": 459,
+        "name": "Doginal Cowz #417",
+        "rank": 296
     },
     {
         "inscriptionid": "dc478412484d5f3e68a824d7f65c50b8776f91f13f49e4132f55ef6668cdfe0ei0",
-        "rarityscore": "428",
-        "rank": "373",
-        "name": "DoginalCowz #418"
+        "rarityscore": 502,
+        "name": "Doginal Cowz #418",
+        "rank": 369
     },
     {
         "inscriptionid": "48c34a46d640707d0a294a1a12bc1102954f8fb84feebaf689d48d5e04099688i0",
-        "rarityscore": "418",
-        "rank": "350",
-        "name": "DoginalCowz #419"
+        "rarityscore": 495,
+        "name": "Doginal Cowz #419",
+        "rank": 359
     },
     {
         "inscriptionid": "276e38c89d181f3cd062d41cee85edc584cf08af40479bd04de71debb4d341e7i0",
-        "rarityscore": "370",
-        "rank": "231",
-        "name": "DoginalCowz #420"
+        "rarityscore": 446,
+        "name": "Doginal Cowz #420",
+        "rank": 256
     }
-]
+];
 
