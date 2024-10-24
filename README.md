@@ -1,8 +1,7 @@
-- 👋 Hi, Im Heimdall, Founder of Doginal Cowz & ddgiveaway!! Doing Only Good Everyday
+- 👋 Hi, Im Heimdall, Founder of Doginal Cowz!! Doing Only Good Everyday
 - 👀 I’m interested in ... Linux, Dogecoin Node Running, Doginals, Art, BTC, Bladesmithing
 - 🌱 I’m currently learning ...python, js. 
 - 📫 How to reach me ...drop me a message
-     Also Check Out www.ddgiveaway.fun
 - ⚡ Fun fact: ...Dont eat yellow snow!!
 
 <!---
